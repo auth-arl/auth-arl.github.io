@@ -3,20 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to AUTh-ARL Docs's documentation!
-=========================================
+Main page
+=========
 
-Contents:
+This page includes documentation and tutorials for using the C++ libraries developed in `Automation and Robotics Lab, AUTh <http://arl.ee.auth.gr>`_ for robotics application.
 
-.. toctree::
-   :maxdepth: 2
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+.. note:: The documentation is under construction.
