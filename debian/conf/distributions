@@ -1,0 +1,7 @@
+Origin: auth-arl
+Label: auth-arl
+Codename: trusty
+Architectures: i386 amd64
+Components: main
+Description: Apt repository for AUTh-ARL
+SignWith: D6006514

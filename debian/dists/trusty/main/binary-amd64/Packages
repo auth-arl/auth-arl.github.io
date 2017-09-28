@@ -1,0 +1,15 @@
+Package: ros-indigo-autharl-core
+Version: 0.4.2-0trusty
+Architecture: amd64
+Maintainer: Theofanis Prapavesis Semetzidis <thprapav@gmail.com>
+Installed-Size: 66
+Depends: ros-indigo-geometry-msgs, ros-indigo-trajectory-msgs
+Priority: extra
+Section: misc
+Filename: pool/main/r/ros-indigo-autharl-core/ros-indigo-autharl-core_0.4.2-0trusty_amd64.deb
+Size: 4218
+SHA256: e32161b26826a2b750e015ad929de65053ea74fda3b7960042fc06ae47093fbe
+SHA1: ac0be0b213a4be772ee3289ed818c1227a568349
+MD5sum: b75bc3b04f49da07b6e231ec257e1b8b
+Description: The autharl_core package
+
