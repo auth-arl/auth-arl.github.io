@@ -1,0 +1,5 @@
+<map id="arl::robot::trajectory::get5thOrderRotationMatrix" name="arl::robot::trajectory::get5thOrderRotationMatrix">
+<area shape="rect" id="node2" href="$namespacearl_1_1utils.html#ade50f2e9a518c9a8019a555b5d92b2ac" title="Converts an arma vector to a KDL Vector. " alt="" coords="237,5,376,32"/>
+<area shape="rect" id="node3" href="$namespacearl_1_1robot_1_1trajectory.html#ada907e0c0e64e12008fc34f6a99b37b0" title="Designs a 5th order trajectory. " alt="" coords="239,57,374,98"/>
+<area shape="rect" id="node4" href="$namespacearl_1_1utils.html#a71c5812c8936e262974c886fdcf62a2d" title="Converts a KDL vector to an arma vector. " alt="" coords="237,123,376,149"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="arl::math::getQuatDifference" name="arl::math::getQuatDifference">
+<area shape="rect" id="node2" href="$namespacearl_1_1math.html#afc4569b9300cd46df7b8573b39c99722" title="Calculates the product of two quaternions. " alt="" coords="241,5,413,32"/>
+<area shape="rect" id="node4" href="$namespacearl_1_1math.html#a274ebcb6b8e84f6afd2bc073635a5f5e" title="Calculates the inverse of a given quaternion. " alt="" coords="241,56,412,83"/>
+<area shape="rect" id="node3" href="$namespacearl_1_1math.html#a109b0f45c469d8ae2179048a0882a9c3" title="Calculates the skew symmetrix given a 3D vector using KDL. " alt="" coords="467,5,642,32"/>
+<area shape="rect" id="node5" href="$namespacearl_1_1math.html#ad9066e6f4d23a4ce1696e50c61b51b6d" title="Calculates the quaternion conjugate. " alt="" coords="461,56,648,83"/>
+</map>
