@@ -23,7 +23,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">AUTh-ARL Core Stack
-   &#160;<span id="projectnumber">0.6.1</span>
+   &#160;<span id="projectnumber">0.6.2</span>
    </div>
   </td>
  </tr>
@@ -165,6 +165,7 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Initializes the class with the points given by a ROS msg. </p>
+<p>The ROS message should include joint names and points with position, velocity, accelarate at time steps given by time_from_start. See here: <a href="http://docs.ros.org/api/trajectory_msgs/html/msg/JointTrajectory.html">http://docs.ros.org/api/trajectory_msgs/html/msg/JointTrajectory.html</a></p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">traj</td><td>The ROS message as the trajectory </td></tr>
@@ -217,6 +218,7 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Initializes the class with the points given by armadillo matrices. </p>
+<p>You need to provide position, velocity and accelaration values for different time points.</p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">time</td><td>The vector for all the time points </td></tr>
@@ -434,7 +436,7 @@ Here is the call graph for this function:</div>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Tue Dec 19 2017 14:30:30 for AUTh-ARL Core Stack by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Tue Jan 9 2018 17:14:43 for AUTh-ARL Core Stack by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.6
 </small></address>

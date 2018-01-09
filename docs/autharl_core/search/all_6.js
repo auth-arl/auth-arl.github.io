@@ -43,7 +43,6 @@ var searchData=
   ['getnrofjoints',['getNrOfJoints',['../classarl_1_1robot_1_1_model.html#a9ffefe80f67ea7e7970e5f79a0de0dcd',1,'arl::robot::Model::getNrOfJoints()'],['../classarl_1_1robot_1_1_model.html#a0e2889e6c1fd20c46c4b0d519e64b0f5',1,'arl::robot::Model::getNrOfJoints(int chain)']]],
   ['getnrofmainchains',['getNrOfMainChains',['../classarl_1_1robot_1_1_model.html#a886766a5a619fb1e723f8fe1f8b934e6',1,'arl::robot::Model']]],
   ['getorientationerror',['getOrientationError',['../group___math_orientation.html#gae021640b03fe691e7f8f92b8c3cd406e',1,'arl::math::getOrientationError(const arma::vec &amp;q, const arma::vec &amp;qd)'],['../group___math_orientation.html#ga2b06eb9b8f30a410d7788815053f6bd6',1,'arl::math::getOrientationError(const std::vector&lt; double &gt; &amp;quat, const std::vector&lt; double &gt; &amp;quat_d)']]],
-  ['getpositionreference',['getPositionReference',['../classarl_1_1math_1_1_admittance.html#a53247b21ee6f2a634c872b8c878a5449',1,'arl::math::Admittance']]],
   ['getquatconjugate',['getQuatConjugate',['../group___math_orientation.html#gad9066e6f4d23a4ce1696e50c61b51b6d',1,'arl::math']]],
   ['getquatdifference',['getQuatDifference',['../group___math_orientation.html#ga9659ff4893af2cbbc4e957675fcc6be2',1,'arl::math']]],
   ['getquatexp',['getQuatExp',['../group___math_orientation.html#gae5cbf84c1794b164c19e27aa2bb884b3',1,'arl::math']]],
@@ -64,6 +63,6 @@ var searchData=
   ['gettwisttemplate',['getTwistTemplate',['../classarl_1_1robot_1_1_robot_sim.html#ad9fa35b64ede3bf010dd366a29f84ce7',1,'arl::robot::RobotSim::getTwistTemplate()'],['../classlwr_1_1robot_1_1_robot.html#a05b0bb7f32e98a87de93287598d23052',1,'lwr::robot::Robot::getTwistTemplate()']]],
   ['getwrench',['getWrench',['../classarl_1_1robot_1_1_robot.html#a3433be4fc09fbb81605b5ba818548caa',1,'arl::robot::Robot::getWrench(KDL::Wrench &amp;output, const unsigned int chain_index=0)'],['../classarl_1_1robot_1_1_robot.html#a0850d4655bbadd6abd88faa75ab891b0',1,'arl::robot::Robot::getWrench(arma::vec &amp;output, const unsigned int chain_index=0)'],['../classarl_1_1robot_1_1_robot.html#afd1b0b119c23e2d87b17692348de6700',1,'arl::robot::Robot::getWrench(Eigen::VectorXd &amp;output, const unsigned int chain_index=0)']]],
   ['global_5findex',['global_index',['../classarl_1_1robot_1_1_model.html#a3202c18b8d7a6ca65665010db59c4991',1,'arl::robot::Model']]],
-  ['gravitycompensation',['GravityCompensation',['../classarl_1_1controller_1_1_gravity_compensation.html#ac3f8c99aaedc6ebe9247ac86acefac94',1,'arl::controller::GravityCompensation']]],
-  ['gravitycompensation',['GravityCompensation',['../classarl_1_1controller_1_1_gravity_compensation.html',1,'arl::controller']]]
+  ['gravitycompensation',['GravityCompensation',['../classarl_1_1controller_1_1_gravity_compensation.html',1,'arl::controller']]],
+  ['gravitycompensation',['GravityCompensation',['../classarl_1_1controller_1_1_gravity_compensation.html#ac3f8c99aaedc6ebe9247ac86acefac94',1,'arl::controller::GravityCompensation']]]
 ];

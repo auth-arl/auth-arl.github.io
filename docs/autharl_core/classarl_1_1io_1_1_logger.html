@@ -23,7 +23,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">AUTh-ARL Core Stack
-   &#160;<span id="projectnumber">0.6.1</span>
+   &#160;<span id="projectnumber">0.6.2</span>
    </div>
   </td>
  </tr>
@@ -117,9 +117,10 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a8d5b7bf716ec4dc2552971ea9c218577"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classarl_1_1io_1_1_logger.html#a8d5b7bf716ec4dc2552971ea9c218577">close</a> ()</td></tr>
 <tr class="memdesc:a8d5b7bf716ec4dc2552971ea9c218577"><td class="mdescLeft">&#160;</td><td class="mdescRight">Closes the file.  <a href="#a8d5b7bf716ec4dc2552971ea9c218577">More...</a><br/></td></tr>
 <tr class="separator:a8d5b7bf716ec4dc2552971ea9c218577"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a504326f54af0487e31a7a6ad55e30cee"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classarl_1_1io_1_1_logger.html#a504326f54af0487e31a7a6ad55e30cee">log</a> (const arma::vec &amp;data, const std::string &amp;name)</td></tr>
-<tr class="memdesc:a504326f54af0487e31a7a6ad55e30cee"><td class="mdescLeft">&#160;</td><td class="mdescRight">Wrapper for logging an Armadillo vector.  <a href="#a504326f54af0487e31a7a6ad55e30cee">More...</a><br/></td></tr>
-<tr class="separator:a504326f54af0487e31a7a6ad55e30cee"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1281ed1b1d3055452dee992aefc8cd4f"><td class="memTemplParams" colspan="2">template&lt;class V &gt; </td></tr>
+<tr class="memitem:a1281ed1b1d3055452dee992aefc8cd4f"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classarl_1_1io_1_1_logger.html#a1281ed1b1d3055452dee992aefc8cd4f">logVector</a> (const V &amp;data, const std::string &amp;name)</td></tr>
+<tr class="memdesc:a1281ed1b1d3055452dee992aefc8cd4f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Function for logging vectors containing data.  <a href="#a1281ed1b1d3055452dee992aefc8cd4f">More...</a><br/></td></tr>
+<tr class="separator:a1281ed1b1d3055452dee992aefc8cd4f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad771006f018dfeb55818e45a475e6322"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
 <tr class="memitem:ad771006f018dfeb55818e45a475e6322"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classarl_1_1io_1_1_logger.html#ad771006f018dfeb55818e45a475e6322">log</a> (const T &amp;data, const std::string &amp;name)</td></tr>
 <tr class="memdesc:ad771006f018dfeb55818e45a475e6322"><td class="mdescLeft">&#160;</td><td class="mdescRight">The main function for logging.  <a href="#ad771006f018dfeb55818e45a475e6322">More...</a><br/></td></tr>
@@ -127,7 +128,7 @@ Public Member Functions</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Helper class providing logging capabilities. Useful in control loops for logging data and easily parsing to Matlab. </p>
-<p>The logger saves the data in the provided path with a time stamp of the current time and the provided file name. Within a loop you can use the <a class="el" href="classarl_1_1io_1_1_logger.html#a504326f54af0487e31a7a6ad55e30cee" title="Wrapper for logging an Armadillo vector. ">Logger::log()</a> function providing the data and the name of the variable. The logger will log in the first line the name of the variables logged in this loop and then in each row of the file the corresponding data. The comma dilimiter is used by this class.</p>
+<p>The logger saves the data in the provided path with a time stamp of the current time and the provided file name. Within a loop you can use the <a class="el" href="classarl_1_1io_1_1_logger.html#ad771006f018dfeb55818e45a475e6322" title="The main function for logging. ">Logger::log()</a> function providing the data and the name of the variable. The logger will log in the first line the name of the variables logged in this loop and then in each row of the file the corresponding data. The comma dilimiter is used by this class.</p>
 <p>Example of use in a control loop:</p>
 <div class="fragment"><div class="line"><span class="keyword">using</span> <a class="code" href="classarl_1_1io_1_1_logger.html">arl::io::Logger</a>;</div>
 <div class="line"><a class="code" href="classarl_1_1io_1_1_logger.html#a4c18dac5dda24136bac5b7a94bf16077">Logger</a> logger(<span class="stringliteral">&quot;my_file&quot;</span>, <span class="stringliteral">&quot;/home/user/my_logfiles&quot;</span>);</div>
@@ -258,42 +259,6 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a class="anchor" id="a504326f54af0487e31a7a6ad55e30cee"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void arl::io::Logger::log </td>
-          <td>(</td>
-          <td class="paramtype">const arma::vec &amp;&#160;</td>
-          <td class="paramname"><em>data</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const std::string &amp;&#160;</td>
-          <td class="paramname"><em>name</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Wrapper for logging an Armadillo vector. </p>
-<dl class="section attention"><dt>Attention</dt><dd>The function will just return without warning if the log file has not been opened yet. This feature helps to leave the calls of the log function in your code even if you do not desire logging and thus you haven't called <a class="el" href="classarl_1_1io_1_1_logger.html#a97bb5e32442bf9816c428a3f50b2677d" title="Opens the file in the given destination. ">Logger::open()</a>.</dd></dl>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">data</td><td>The data in the armadillo vector </td></tr>
-    <tr><td class="paramname">name</td><td>The desired name of the data in the log file. </td></tr>
-  </table>
-  </dd>
-</dl>
-
-</div>
-</div>
 <a class="anchor" id="ad771006f018dfeb55818e45a475e6322"></a>
 <div class="memitem">
 <div class="memproto">
@@ -337,6 +302,62 @@ template&lt;class T &gt; </div>
   </table>
   </dd>
 </dl>
+
+</div>
+</div>
+<a class="anchor" id="a1281ed1b1d3055452dee992aefc8cd4f"></a>
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class V &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void arl::io::Logger::logVector </td>
+          <td>(</td>
+          <td class="paramtype">const V &amp;&#160;</td>
+          <td class="paramname"><em>data</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>name</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Function for logging vectors containing data. </p>
+<p>You can use it to log Armadillo (arma::vec) or Eigen (Eigen::VectorXd) vectors, or any type that overloads the operator().</p>
+<dl class="section attention"><dt>Attention</dt><dd>The function will just return without warning if the log file has not been opened yet. This feature helps to leave the calls of the log function in your code even if you do not desire logging and thus you haven't called <a class="el" href="classarl_1_1io_1_1_logger.html#a97bb5e32442bf9816c428a3f50b2677d" title="Opens the file in the given destination. ">Logger::open()</a>.</dd></dl>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">data</td><td>The vector of data. </td></tr>
+    <tr><td class="paramname">name</td><td>The desired name of the data in the log file. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="classarl_1_1io_1_1_logger_a1281ed1b1d3055452dee992aefc8cd4f_cgraph.png" border="0" usemap="#classarl_1_1io_1_1_logger_a1281ed1b1d3055452dee992aefc8cd4f_cgraph" alt=""/></div>
+<map name="classarl_1_1io_1_1_logger_a1281ed1b1d3055452dee992aefc8cd4f_cgraph" id="classarl_1_1io_1_1_logger_a1281ed1b1d3055452dee992aefc8cd4f_cgraph">
+<area shape="rect" id="node2" href="classarl_1_1io_1_1_logger.html#ad771006f018dfeb55818e45a475e6322" title="The main function for logging. " alt="" coords="219,5,346,32"/></map>
+</div>
+</p>
 
 </div>
 </div>
@@ -397,7 +418,7 @@ Here is the call graph for this function:</div>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Tue Dec 19 2017 14:30:30 for AUTh-ARL Core Stack by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Tue Jan 9 2018 17:14:43 for AUTh-ARL Core Stack by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.6
 </small></address>

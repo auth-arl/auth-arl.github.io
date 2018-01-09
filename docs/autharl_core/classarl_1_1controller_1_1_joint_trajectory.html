@@ -23,7 +23,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">AUTh-ARL Core Stack
-   &#160;<span id="projectnumber">0.6.1</span>
+   &#160;<span id="projectnumber">0.6.2</span>
    </div>
   </td>
  </tr>
@@ -117,8 +117,9 @@ Collaboration diagram for arl::controller::JointTrajectory:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aee19eedbf0b3d42df8a63d1c0fc76de4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classarl_1_1controller_1_1_joint_trajectory.html#aee19eedbf0b3d42df8a63d1c0fc76de4">JointTrajectory</a> (std::shared_ptr&lt; <a class="el" href="classarl_1_1robot_1_1_robot.html">arl::robot::Robot</a> &gt; <a class="el" href="classarl_1_1robot_1_1_controller.html#a4a15c311185097b39746f20363b83b61">robot</a>)</td></tr>
-<tr class="separator:aee19eedbf0b3d42df8a63d1c0fc76de4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab12d63722e1af16c8aa8217c2b7a5788"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classarl_1_1controller_1_1_joint_trajectory.html#ab12d63722e1af16c8aa8217c2b7a5788">JointTrajectory</a> (std::shared_ptr&lt; <a class="el" href="classarl_1_1robot_1_1_robot.html">arl::robot::Robot</a> &gt; <a class="el" href="classarl_1_1robot_1_1_controller.html#a4a15c311185097b39746f20363b83b61">robot</a>, <a class="el" href="classarl_1_1robot_1_1_controller.html#ab7e361caf751a795006b7675dad54a42">robot::Controller::Timing</a> timing=robot::Controller::Timing::FIXED)</td></tr>
+<tr class="memdesc:ab12d63722e1af16c8aa8217c2b7a5788"><td class="mdescLeft">&#160;</td><td class="mdescRight">The default constructor.  <a href="#ab12d63722e1af16c8aa8217c2b7a5788">More...</a><br/></td></tr>
+<tr class="separator:ab12d63722e1af16c8aa8217c2b7a5788"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1ecd72374b419c1e3242ad994c35fd9c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classarl_1_1controller_1_1_joint_trajectory.html#a1ecd72374b419c1e3242ad994c35fd9c">init</a> ()</td></tr>
 <tr class="memdesc:a1ecd72374b419c1e3242ad994c35fd9c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes the controller.  <a href="#a1ecd72374b419c1e3242ad994c35fd9c">More...</a><br/></td></tr>
 <tr class="separator:a1ecd72374b419c1e3242ad994c35fd9c"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -211,7 +212,7 @@ Additional Inherited Members</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Implements a Joint Trajectory controller. </p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a class="anchor" id="aee19eedbf0b3d42df8a63d1c0fc76de4"></a>
+<a class="anchor" id="ab12d63722e1af16c8aa8217c2b7a5788"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -222,8 +223,18 @@ Additional Inherited Members</h2></td></tr>
           <td class="memname">arl::controller::JointTrajectory::JointTrajectory </td>
           <td>(</td>
           <td class="paramtype">std::shared_ptr&lt; <a class="el" href="classarl_1_1robot_1_1_robot.html">arl::robot::Robot</a> &gt;&#160;</td>
-          <td class="paramname"><em>robot</em></td><td>)</td>
+          <td class="paramname"><em>robot</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="classarl_1_1robot_1_1_controller.html#ab7e361caf751a795006b7675dad54a42">robot::Controller::Timing</a>&#160;</td>
+          <td class="paramname"><em>timing</em> = <code>robot::Controller::Timing::FIXED</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -232,6 +243,15 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>The default constructor. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">robot</td><td>A pointer to the robot to control </td></tr>
+    <tr><td class="paramname">timing</td><td>The type of timing. Could be DYNAMIC or FIXED. See <a class="el" href="classarl_1_1robot_1_1_controller.html" title="An abstract class which implements a robot controller. ">arl::robot::Controller</a>. Use FIXED timing in real time controlled robots like KUKA LWR and DYNAMIC in non realtime-controlled robots like BarrettHand. </td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>
@@ -267,7 +287,7 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classarl_1_1controller_1_1_joint_trajectory_a5014107d2e4a14b03473cda48c200166_cgraph.png" border="0" usemap="#classarl_1_1controller_1_1_joint_trajectory_a5014107d2e4a14b03473cda48c200166_cgraph" alt=""/></div>
 <map name="classarl_1_1controller_1_1_joint_trajectory_a5014107d2e4a14b03473cda48c200166_cgraph" id="classarl_1_1controller_1_1_joint_trajectory_a5014107d2e4a14b03473cda48c200166_cgraph">
-<area shape="rect" id="node2" href="classarl_1_1io_1_1_logger.html#a504326f54af0487e31a7a6ad55e30cee" title="Wrapper for logging an Armadillo vector. " alt="" coords="251,5,378,32"/><area shape="rect" id="node3" href="classarl_1_1robot_1_1_controller.html#aec250db6a99b38797318371ac7b287bd" title="Returns the current time since the start of the controller in seconds. " alt="" coords="246,57,383,98"/></map>
+<area shape="rect" id="node2" href="classarl_1_1io_1_1_logger.html#ad771006f018dfeb55818e45a475e6322" title="The main function for logging. " alt="" coords="251,5,378,32"/><area shape="rect" id="node3" href="classarl_1_1robot_1_1_controller.html#aec250db6a99b38797318371ac7b287bd" title="Returns the current time since the start of the controller in seconds. " alt="" coords="246,57,383,98"/></map>
 </div>
 </p>
 
@@ -425,7 +445,7 @@ Here is the call graph for this function:</div>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Tue Dec 19 2017 14:30:30 for AUTh-ARL Core Stack by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Tue Jan 9 2018 17:14:43 for AUTh-ARL Core Stack by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.6
 </small></address>

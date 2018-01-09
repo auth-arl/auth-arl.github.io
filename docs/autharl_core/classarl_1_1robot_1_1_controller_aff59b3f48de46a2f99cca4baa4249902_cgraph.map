@@ -3,7 +3,7 @@
 <area shape="rect" id="node4" href="$classarl_1_1utils_1_1_timer.html#a3b9055fea7eef188b8608fa52a592f1d" title="Returns the time elapsed in seconds since the last call of this function. " alt="" coords="217,70,391,111"/>
 <area shape="rect" id="node5" href="$classarl_1_1utils_1_1_timer.html#aa41c092a7dc7b8718b1846ca3d18ccd1" title="arl::utils::Timer::\lstartPoint" alt="" coords="245,135,363,177"/>
 <area shape="rect" id="node6" href="$classarl_1_1robot_1_1_controller.html#a59c291bf5ccbaa273976956f190794f3" title="Measures the desired data. " alt="" coords="235,201,373,242"/>
-<area shape="rect" id="node7" href="$classarl_1_1io_1_1_logger.html#a504326f54af0487e31a7a6ad55e30cee" title="Wrapper for logging an Armadillo vector. " alt="" coords="241,267,367,293"/>
+<area shape="rect" id="node7" href="$classarl_1_1io_1_1_logger.html#ad771006f018dfeb55818e45a475e6322" title="The main function for logging. " alt="" coords="241,267,367,293"/>
 <area shape="rect" id="node8" href="$classarl_1_1utils_1_1_timer.html#a164503a86dfe35688b7dab41233f954b" title="arl::utils::Timer::\ltimeFromStartPoint" alt="" coords="237,318,371,359"/>
 <area shape="rect" id="node9" href="$classarl_1_1robot_1_1_controller.html#ab39ee6179416f0fd2c6c4de6249d9c38" title="Performs the necessary calculations of the controller. " alt="" coords="235,383,373,425"/>
 <area shape="rect" id="node10" href="$classarl_1_1robot_1_1_controller.html#ab963c74d1fadcefd8e6220662379d073" title="Commands the robot. " alt="" coords="235,449,373,490"/>

@@ -19,5 +19,5 @@ var searchData=
   ['trajectory',['Trajectory',['../classarl_1_1primitive_1_1_trajectory.html',1,'arl::primitive']]],
   ['trajectory',['Trajectory',['../classarl_1_1primitive_1_1_trajectory.html#a705fc3732d1b793d75f6beea3e5dd582',1,'arl::primitive::Trajectory']]],
   ['trajectory_3c_20arma_3a_3avec_20_3e',['Trajectory&lt; arma::vec &gt;',['../classarl_1_1primitive_1_1_trajectory.html',1,'arl::primitive']]],
-  ['type',['type',['../classarl_1_1robot_1_1_sensor.html#af90bd7142e4b64de72811a6573c8f6c6',1,'arl::robot::Sensor::type()'],['../classarl_1_1robot_1_1_sensor.html#a09b4a1d1d2249747f61eb6555feafac6',1,'arl::robot::Sensor::Type()']]]
+  ['type',['Type',['../classarl_1_1robot_1_1_sensor.html#a09b4a1d1d2249747f61eb6555feafac6',1,'arl::robot::Sensor::Type()'],['../classarl_1_1robot_1_1_sensor.html#af90bd7142e4b64de72811a6573c8f6c6',1,'arl::robot::Sensor::type()']]]
 ];

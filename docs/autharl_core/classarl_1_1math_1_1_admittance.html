@@ -23,7 +23,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">AUTh-ARL Core Stack
-   &#160;<span id="projectnumber">0.6.1</span>
+   &#160;<span id="projectnumber">0.6.2</span>
    </div>
   </td>
  </tr>
@@ -123,12 +123,6 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a1b3cc7f5352343fdf7bedee8a71ca29e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classarl_1_1math_1_1_admittance.html#a1b3cc7f5352343fdf7bedee8a71ca29e">setInitState</a> (const <a class="el" href="classarl_1_1math_1_1_admittance.html#ae654c80d5acf50a8e5f80165d4d2b13e">State</a> &amp;x)</td></tr>
 <tr class="memdesc:a1b3cc7f5352343fdf7bedee8a71ca29e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sets the initial state of the system. Should be called before the control loops starts.  <a href="#a1b3cc7f5352343fdf7bedee8a71ca29e">More...</a><br/></td></tr>
 <tr class="separator:a1b3cc7f5352343fdf7bedee8a71ca29e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8d25acb9d21b26641de7ebd1b40cca87"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classarl_1_1math_1_1_admittance.html#a8d25acb9d21b26641de7ebd1b40cca87">setPositionReference</a> (double x_ref)</td></tr>
-<tr class="memdesc:a8d25acb9d21b26641de7ebd1b40cca87"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sets a position reference for the system.  <a href="#a8d25acb9d21b26641de7ebd1b40cca87">More...</a><br/></td></tr>
-<tr class="separator:a8d25acb9d21b26641de7ebd1b40cca87"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a53247b21ee6f2a634c872b8c878a5449"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classarl_1_1math_1_1_admittance.html#a53247b21ee6f2a634c872b8c878a5449">getPositionReference</a> () const </td></tr>
-<tr class="memdesc:a53247b21ee6f2a634c872b8c878a5449"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reads the current position reference.  <a href="#a53247b21ee6f2a634c872b8c878a5449">More...</a><br/></td></tr>
-<tr class="separator:a53247b21ee6f2a634c872b8c878a5449"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Integrates the dynamical system for admittance control. </p>
@@ -235,24 +229,6 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a class="anchor" id="a53247b21ee6f2a634c872b8c878a5449"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">double arl::math::Admittance::getPositionReference </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Reads the current position reference. </p>
-<dl class="section return"><dt>Returns</dt><dd>The current position reference. </dd></dl>
-
-</div>
-</div>
 <a class="anchor" id="a1b3cc7f5352343fdf7bedee8a71ca29e"></a>
 <div class="memitem">
 <div class="memproto">
@@ -319,30 +295,6 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
-<a class="anchor" id="a8d25acb9d21b26641de7ebd1b40cca87"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void arl::math::Admittance::setPositionReference </td>
-          <td>(</td>
-          <td class="paramtype">double&#160;</td>
-          <td class="paramname"><em>x_ref</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Sets a position reference for the system. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">x_ref</td><td>The desired position reference </td></tr>
-  </table>
-  </dd>
-</dl>
-
-</div>
-</div>
 <hr/>The documentation for this class was generated from the following files:<ul>
 <li>core/math/include/autharl_core/math/admittance.h</li>
 <li>core/math/src/admittance.cpp</li>
@@ -350,7 +302,7 @@ Here is the call graph for this function:</div>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Tue Dec 19 2017 14:30:30 for AUTh-ARL Core Stack by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Tue Jan 9 2018 17:14:43 for AUTh-ARL Core Stack by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.6
 </small></address>
