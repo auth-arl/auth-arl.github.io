@@ -180,7 +180,7 @@ Functions</h2></td></tr>
 <tr class="memitem:a04f5cba77e9dcafd26b0564425cf1998"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacearl_1_1utils.html#a04f5cba77e9dcafd26b0564425cf1998">rosToKdl</a> (const geometry_msgs::Point &amp;ros, KDL::Vector *kdl)</td></tr>
 <tr class="memdesc:a04f5cba77e9dcafd26b0564425cf1998"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts a ROS Point (geometry_msgs Point) to a KDL Vector.  <a href="#a04f5cba77e9dcafd26b0564425cf1998">More...</a><br/></td></tr>
 <tr class="separator:a04f5cba77e9dcafd26b0564425cf1998"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5f0c74a4dc40bfae8378be233fd05be1"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacearl_1_1utils.html#a5f0c74a4dc40bfae8378be233fd05be1">rosToKdl</a> (const <a class="el" href="group___eigen_plugins.html#gaaa7a4aeb7aa7efd28142072bb2374887">geometry_msgs::Quaternion</a> &amp;ros, KDL::Rotation *kdl, double eps=1e-6)</td></tr>
+<tr class="memitem:a5f0c74a4dc40bfae8378be233fd05be1"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacearl_1_1utils.html#a5f0c74a4dc40bfae8378be233fd05be1">rosToKdl</a> (const <a class="el" href="group___math_orientation.html#gaaa7a4aeb7aa7efd28142072bb2374887">geometry_msgs::Quaternion</a> &amp;ros, KDL::Rotation *kdl, double eps=1e-6)</td></tr>
 <tr class="memdesc:a5f0c74a4dc40bfae8378be233fd05be1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts a ROS Quaternion (geometry_msgs Quaternion) to a KDL Rotation. It will perform the conversion even if the quaternion is not unit.  <a href="#a5f0c74a4dc40bfae8378be233fd05be1">More...</a><br/></td></tr>
 <tr class="separator:a5f0c74a4dc40bfae8378be233fd05be1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a243ec4dd69243e22dbbba1fd91a9a7d0"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacearl_1_1utils.html#a243ec4dd69243e22dbbba1fd91a9a7d0">rosToKdl</a> (const geometry_msgs::Pose &amp;ros, KDL::Frame *kdl, double eps=1e-6)</td></tr>
@@ -192,14 +192,14 @@ Functions</h2></td></tr>
 <tr class="memitem:a9d976bfb24fc934aa7161cc7f05d7465"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacearl_1_1utils.html#a9d976bfb24fc934aa7161cc7f05d7465">kdlToRos</a> (const KDL::Vector &amp;kdl, geometry_msgs::Point *ros)</td></tr>
 <tr class="memdesc:a9d976bfb24fc934aa7161cc7f05d7465"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts a KDL vector to a ROS Point (geometry_msgs Point)  <a href="#a9d976bfb24fc934aa7161cc7f05d7465">More...</a><br/></td></tr>
 <tr class="separator:a9d976bfb24fc934aa7161cc7f05d7465"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a09a93cadcfbbda72537ed6ba1fa55d1a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacearl_1_1utils.html#a09a93cadcfbbda72537ed6ba1fa55d1a">kdlToRos</a> (const KDL::Rotation &amp;kdl, <a class="el" href="group___eigen_plugins.html#gaaa7a4aeb7aa7efd28142072bb2374887">geometry_msgs::Quaternion</a> *ros, double eps=1e-6)</td></tr>
+<tr class="memitem:a09a93cadcfbbda72537ed6ba1fa55d1a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacearl_1_1utils.html#a09a93cadcfbbda72537ed6ba1fa55d1a">kdlToRos</a> (const KDL::Rotation &amp;kdl, <a class="el" href="group___math_orientation.html#gaaa7a4aeb7aa7efd28142072bb2374887">geometry_msgs::Quaternion</a> *ros, double eps=1e-6)</td></tr>
 <tr class="memdesc:a09a93cadcfbbda72537ed6ba1fa55d1a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts a KDL Rotation to a ROS Quaternion (geometry_msgs Quaternion). It will perform the conversion even if the rotation is not legit.  <a href="#a09a93cadcfbbda72537ed6ba1fa55d1a">More...</a><br/></td></tr>
 <tr class="separator:a09a93cadcfbbda72537ed6ba1fa55d1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aeedcd3535fb95d3c0eac0c7440fc40eb"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacearl_1_1utils.html#aeedcd3535fb95d3c0eac0c7440fc40eb">kdlToRos</a> (const KDL::Frame &amp;kdl, geometry_msgs::Pose *ros, double eps=1e-6)</td></tr>
 <tr class="memdesc:aeedcd3535fb95d3c0eac0c7440fc40eb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts a KDL Frame to a ROS pose (geometry_msgs Pose). It will perform the conversion even if the rotation matrix of the frame is not legit.  <a href="#aeedcd3535fb95d3c0eac0c7440fc40eb">More...</a><br/></td></tr>
 <tr class="separator:aeedcd3535fb95d3c0eac0c7440fc40eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3d9d058a50d6270c90112a51fd5c4459"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacearl_1_1utils.html#a3d9d058a50d6270c90112a51fd5c4459">getAlias</a> (const std::string &amp;name)</td></tr>
-<tr class="separator:a3d9d058a50d6270c90112a51fd5c4459"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga3d9d058a50d6270c90112a51fd5c4459"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group___utils.html#ga3d9d058a50d6270c90112a51fd5c4459">getAlias</a> (const std::string &amp;name)</td></tr>
+<tr class="separator:ga3d9d058a50d6270c90112a51fd5c4459"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>The namespace having miscellaneous code which does not have a specific category. </p>
@@ -467,30 +467,6 @@ Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a3d9d058a50d6270c90112a51fd5c4459"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::string arl::utils::getAlias </td>
-          <td>(</td>
-          <td class="paramtype">const std::string &amp;&#160;</td>
-          <td class="paramname"><em>name</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<p>Returns the alias of a robot. In general tranforms a string to lower case and replace the space with underscores. E.g. the string "KUKA LBR" will be returned as "kuka_lbr". </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">name</td><td>The initial string as input </td></tr>
-    <tr><td class="paramname">alias</td><td>The final string as output. </td></tr>
-  </table>
-  </dd>
-</dl>
 
 </div>
 </div>
@@ -965,7 +941,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="group___eigen_plugins.html#gaaa7a4aeb7aa7efd28142072bb2374887">geometry_msgs::Quaternion</a> *&#160;</td>
+          <td class="paramtype"><a class="el" href="group___math_orientation.html#gaaa7a4aeb7aa7efd28142072bb2374887">geometry_msgs::Quaternion</a> *&#160;</td>
           <td class="paramname"><em>ros</em>, </td>
         </tr>
         <tr>
@@ -1151,7 +1127,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">bool arl::utils::rosToKdl </td>
           <td>(</td>
-          <td class="paramtype">const <a class="el" href="group___eigen_plugins.html#gaaa7a4aeb7aa7efd28142072bb2374887">geometry_msgs::Quaternion</a> &amp;&#160;</td>
+          <td class="paramtype">const <a class="el" href="group___math_orientation.html#gaaa7a4aeb7aa7efd28142072bb2374887">geometry_msgs::Quaternion</a> &amp;&#160;</td>
           <td class="paramname"><em>ros</em>, </td>
         </tr>
         <tr>
@@ -1248,7 +1224,7 @@ Functions</h2></td></tr>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Mon Dec 18 2017 13:13:07 for AUTh-ARL Core Stack by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Tue Dec 19 2017 14:30:30 for AUTh-ARL Core Stack by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.6
 </small></address>

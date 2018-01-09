@@ -124,6 +124,8 @@ Functions</h2></td></tr>
 <tr class="memitem:gaedd60ba9cc19f73977bf5e80b1c2c7ea"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group___utils.html#gaedd60ba9cc19f73977bf5e80b1c2c7ea">arl::utils::armaToRos</a> (const arma::mat &amp;arma, geometry_msgs::PoseStamped *ros, const std::string &amp;frame_id=&quot;world&quot;)</td></tr>
 <tr class="memdesc:gaedd60ba9cc19f73977bf5e80b1c2c7ea"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts an arma matrix to a geometry_msgs/PoseStamped.  <a href="#gaedd60ba9cc19f73977bf5e80b1c2c7ea">More...</a><br/></td></tr>
 <tr class="separator:gaedd60ba9cc19f73977bf5e80b1c2c7ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga3d9d058a50d6270c90112a51fd5c4459"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group___utils.html#ga3d9d058a50d6270c90112a51fd5c4459">arl::utils::getAlias</a> (const std::string &amp;name)</td></tr>
+<tr class="separator:ga3d9d058a50d6270c90112a51fd5c4459"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <p>Utilities like timers, mappings between libraries etc. </p>
@@ -351,7 +353,7 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="group___utils_gaedd60ba9cc19f73977bf5e80b1c2c7ea_cgraph.png" border="0" usemap="#group___utils_gaedd60ba9cc19f73977bf5e80b1c2c7ea_cgraph" alt=""/></div>
 <map name="group___utils_gaedd60ba9cc19f73977bf5e80b1c2c7ea_cgraph" id="group___utils_gaedd60ba9cc19f73977bf5e80b1c2c7ea_cgraph">
-<area shape="rect" id="node2" href="namespacearl_1_1math.html#abb4e0874e1c1504bdcb4e9726ff77ba1" title="Transforms a rotation matrix to a quaternion. " alt="" coords="197,5,336,32"/></map>
+<area shape="rect" id="node2" href="group___math_orientation.html#gabb4e0874e1c1504bdcb4e9726ff77ba1" title="Transforms a rotation matrix to a quaternion. " alt="" coords="197,5,336,32"/></map>
 </div>
 </p>
 
@@ -422,6 +424,30 @@ Here is the call graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="ga3d9d058a50d6270c90112a51fd5c4459"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string arl::utils::getAlias </td>
+          <td>(</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>name</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Returns the alias of a robot. In general tranforms a string to lower case and replace the space with underscores. E.g. the string "KUKA LBR" will be returned as "kuka_lbr". </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">name</td><td>The initial string as input </td></tr>
+    <tr><td class="paramname">alias</td><td>The final string as output. </td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>
@@ -560,7 +586,7 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="group___utils_ga8f92db058a50d879c3cb01699ca83e9d_cgraph.png" border="0" usemap="#group___utils_ga8f92db058a50d879c3cb01699ca83e9d_cgraph" alt=""/></div>
 <map name="group___utils_ga8f92db058a50d879c3cb01699ca83e9d_cgraph" id="group___utils_ga8f92db058a50d879c3cb01699ca83e9d_cgraph">
-<area shape="rect" id="node2" href="namespacearl_1_1math.html#a042963eb885eb538bc39572416675617" title="Transforms a quaternion to a rotation matrix. " alt="" coords="195,5,338,32"/></map>
+<area shape="rect" id="node2" href="group___math_orientation.html#ga042963eb885eb538bc39572416675617" title="Transforms a quaternion to a rotation matrix. " alt="" coords="195,5,338,32"/></map>
 </div>
 </p>
 
@@ -613,7 +639,7 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="group___utils_ga90d95e901b401266bf82f4914bfaad26_cgraph.png" border="0" usemap="#group___utils_ga90d95e901b401266bf82f4914bfaad26_cgraph" alt=""/></div>
 <map name="group___utils_ga90d95e901b401266bf82f4914bfaad26_cgraph" id="group___utils_ga90d95e901b401266bf82f4914bfaad26_cgraph">
-<area shape="rect" id="node2" href="namespacearl_1_1math.html#a042963eb885eb538bc39572416675617" title="Transforms a quaternion to a rotation matrix. " alt="" coords="195,5,338,32"/></map>
+<area shape="rect" id="node2" href="group___math_orientation.html#ga042963eb885eb538bc39572416675617" title="Transforms a quaternion to a rotation matrix. " alt="" coords="195,5,338,32"/></map>
 </div>
 </p>
 
@@ -622,7 +648,7 @@ Here is the call graph for this function:</div>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Mon Dec 18 2017 13:13:06 for AUTh-ARL Core Stack by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Tue Dec 19 2017 14:30:30 for AUTh-ARL Core Stack by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.6
 </small></address>

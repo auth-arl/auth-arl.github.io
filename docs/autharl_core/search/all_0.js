@@ -4,7 +4,7 @@ var searchData=
   ['admittance',['Admittance',['../classarl_1_1math_1_1_admittance.html',1,'arl::math']]],
   ['admittance',['Admittance',['../classarl_1_1math_1_1_admittance.html#a5714197d4c17a31b20f591e9a4c2488a',1,'arl::math::Admittance']]],
   ['alias',['alias',['../classarl_1_1robot_1_1_robot.html#ae171910db41668cb2e7dd827974f4733',1,'arl::robot::Robot::alias()'],['../classarl_1_1robot_1_1_sensor.html#a47e2681fb249bb03d85f318589f81a9a',1,'arl::robot::Sensor::alias()']]],
-  ['arecoplanar',['areCoplanar',['../namespacearl_1_1math.html#a22f589da00ff3faae1fb99cadb90878a',1,'arl::math']]],
+  ['arecoplanar',['areCoplanar',['../group___math_geometry.html#ga22f589da00ff3faae1fb99cadb90878a',1,'arl::math']]],
   ['arl',['arl',['../namespacearl.html',1,'']]],
   ['arm',['arm',['../classarl_1_1robot_1_1_arm_hand_controller.html#ab72a2bcc380a75626a6bc495ac1eef31',1,'arl::robot::ArmHandController']]],
   ['arma',['ARMA',['../classarl_1_1math_1_1_clik.html#adda8acd12d781a9134dbea8fc9b6cc72a3376b01ff39aaf1e1e51762e439f71e2',1,'arl::math::Clik']]],

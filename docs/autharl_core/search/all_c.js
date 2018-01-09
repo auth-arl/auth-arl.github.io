@@ -1,6 +1,9 @@
 var searchData=
 [
-  ['math',['Math',['../group___math.html',1,'']]],
+  ['math_2fgeometry',['Math/Geometry',['../group___math_geometry.html',1,'']]],
+  ['math_2forientation',['Math/Orientation',['../group___math_orientation.html',1,'']]],
+  ['math_2frobotics',['Math/Robotics',['../group___math_robotics.html',1,'']]],
+  ['math_2fstatistics',['Math/Statistics',['../group___math_statistics.html',1,'']]],
   ['matrix',['Matrix',['../group___eigen_plugins.html#gaf4eeda183343d8ca1deabd41e881c31e',1,'eigen_matrix_plugin.h']]],
   ['mean',['mean',['../classarl_1_1math_1_1_mvn.html#a4f5a8262a8d43feb6387090a6a5b2c99',1,'arl::math::Mvn']]],
   ['measure',['measure',['../classarl_1_1controller_1_1_cartesian_admittance.html#a8826f1e59503acaa95b3db3dba64c1d3',1,'arl::controller::CartesianAdmittance::measure()'],['../classarl_1_1controller_1_1_cartesian_impedance.html#abced0fdeea610bb0d45e823ea890da9c',1,'arl::controller::CartesianImpedance::measure()'],['../classarl_1_1controller_1_1_clik.html#a9c32b41d17ea8cc9c3bc81b4e2f23fbf',1,'arl::controller::Clik::measure()'],['../classarl_1_1robot_1_1_controller.html#a59c291bf5ccbaa273976956f190794f3',1,'arl::robot::Controller::measure()'],['../classarl_1_1robot_1_1_robot.html#a98589a188764bf7f9675acea79481c1c',1,'arl::robot::Robot::measure()'],['../classarl_1_1viz_1_1_ros_state_publisher.html#a3d58df9d039878333db8420336fe3017',1,'arl::viz::RosStatePublisher::measure()'],['../classarl_1_1bhand_1_1controller_1_1_joint_admittance.html#ad8a88ee4000a9a0ef85aecdf4c1cdfb5',1,'arl::bhand::controller::JointAdmittance::measure()']]],

@@ -94,66 +94,10 @@ Functions</h2></td></tr>
 <tr class="memitem:ga200f97b7ce53f424512fc1b09b36dbfd"><td class="memItemLeft" align="right" valign="top">arma::mat&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group___eigen_plugins.html#ga200f97b7ce53f424512fc1b09b36dbfd">toArma</a> () const </td></tr>
 <tr class="memdesc:ga200f97b7ce53f424512fc1b09b36dbfd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the equivalent Armadillo Matrix from this Eigen Matrix.  <a href="#ga200f97b7ce53f424512fc1b09b36dbfd">More...</a><br/></td></tr>
 <tr class="separator:ga200f97b7ce53f424512fc1b09b36dbfd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga7d75c2ad9e1d5df2f06a6a3f0227116e"><td class="memItemLeft" align="right" valign="top">EIGEN_DEVICE_FUNC <a class="el" href="group___eigen_plugins.html#gaf4eeda183343d8ca1deabd41e881c31e">Matrix</a><br class="typebreak"/>
-&lt; Scalar, 3, 3 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group___eigen_plugins.html#ga7d75c2ad9e1d5df2f06a6a3f0227116e">skewSymmetric</a> () const </td></tr>
-<tr class="memdesc:ga7d75c2ad9e1d5df2f06a6a3f0227116e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the skew symmetric matrix from an Eigen Vector.  <a href="#ga7d75c2ad9e1d5df2f06a6a3f0227116e">More...</a><br/></td></tr>
-<tr class="separator:ga7d75c2ad9e1d5df2f06a6a3f0227116e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gaaa7a4aeb7aa7efd28142072bb2374887"><td class="memItemLeft" align="right" valign="top">EIGEN_DEVICE_FUNC&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group___eigen_plugins.html#gaaa7a4aeb7aa7efd28142072bb2374887">Quaternion</a> (const arma::vec &amp;arma)</td></tr>
-<tr class="separator:gaaa7a4aeb7aa7efd28142072bb2374887"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gaf4c9c987196fecea75e3853bea0de7f8"><td class="memTemplParams" colspan="2">template&lt;class OtherDerived &gt; </td></tr>
-<tr class="memitem:gaf4c9c987196fecea75e3853bea0de7f8"><td class="memTemplItemLeft" align="right" valign="top">EIGEN_DEVICE_FUNC <a class="el" href="group___eigen_plugins.html#gaf4eeda183343d8ca1deabd41e881c31e">Matrix</a><br class="typebreak"/>
-&lt; Scalar, 3, 1 &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="group___eigen_plugins.html#gaf4c9c987196fecea75e3853bea0de7f8">error</a> (const QuaternionBase&lt; OtherDerived &gt; &amp;desired) const </td></tr>
-<tr class="memdesc:gaf4c9c987196fecea75e3853bea0de7f8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the orientation error between two quaternions.  <a href="#gaf4c9c987196fecea75e3853bea0de7f8">More...</a><br/></td></tr>
-<tr class="separator:gaf4c9c987196fecea75e3853bea0de7f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <p>Additional functionality to the Eigen Library. </p>
 <h2 class="groupheader">Function Documentation</h2>
-<a class="anchor" id="gaf4c9c987196fecea75e3853bea0de7f8"></a>
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class OtherDerived &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">EIGEN_DEVICE_FUNC <a class="el" href="group___eigen_plugins.html#gaf4eeda183343d8ca1deabd41e881c31e">Matrix</a>&lt;Scalar, 3, 1&gt; error </td>
-          <td>(</td>
-          <td class="paramtype">const QuaternionBase&lt; OtherDerived &gt; &amp;&#160;</td>
-          <td class="paramname"><em>desired</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Returns the orientation error between two quaternions. </p>
-<p>The returned quaternion error is given by Eq. 3.91 at p. 140 of book "Robotics: Modelling, Planning and Control of Siciliano", with different sequence.</p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">desired</td><td>The desired quaternion </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="section return"><dt>Returns</dt><dd>The quaternion error as a 3D vector </dd></dl>
-
-<p><div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="group___eigen_plugins_gaf4c9c987196fecea75e3853bea0de7f8_cgraph.png" border="0" usemap="#group___eigen_plugins_gaf4c9c987196fecea75e3853bea0de7f8_cgraph" alt=""/></div>
-<map name="group___eigen_plugins_gaf4c9c987196fecea75e3853bea0de7f8_cgraph" id="group___eigen_plugins_gaf4c9c987196fecea75e3853bea0de7f8_cgraph">
-<area shape="rect" id="node2" href="group___eigen_plugins.html#ga7d75c2ad9e1d5df2f06a6a3f0227116e" title="Returns the skew symmetric matrix from an Eigen Vector. " alt="" coords="102,5,218,32"/></map>
-</div>
-</p>
-
-</div>
-</div>
 <a class="anchor" id="gaf4eeda183343d8ca1deabd41e881c31e"></a>
 <div class="memitem">
 <div class="memproto">
@@ -175,56 +119,6 @@ Here is the call graph for this function:</div>
   </table>
   </dd>
 </dl>
-
-</div>
-</div>
-<a class="anchor" id="gaaa7a4aeb7aa7efd28142072bb2374887"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">EIGEN_DEVICE_FUNC Quaternion </td>
-          <td>(</td>
-          <td class="paramtype">const arma::vec &amp;&#160;</td>
-          <td class="paramname"><em>arma</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="ga7d75c2ad9e1d5df2f06a6a3f0227116e"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">EIGEN_DEVICE_FUNC <a class="el" href="group___eigen_plugins.html#gaf4eeda183343d8ca1deabd41e881c31e">Matrix</a>&lt;Scalar, 3, 3&gt; skewSymmetric </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Returns the skew symmetric matrix from an Eigen Vector. </p>
-<dl class="section return"><dt>Returns</dt><dd>The 3x3 skew symmetric matrix </dd></dl>
 
 </div>
 </div>
@@ -260,7 +154,7 @@ The quaternion in an armadillo vector as [w, x, y, z] </dd></dl>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Mon Dec 18 2017 13:13:06 for AUTh-ARL Core Stack by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Tue Dec 19 2017 14:30:30 for AUTh-ARL Core Stack by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.6
 </small></address>

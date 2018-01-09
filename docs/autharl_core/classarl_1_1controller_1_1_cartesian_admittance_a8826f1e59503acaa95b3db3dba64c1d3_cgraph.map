@@ -1,4 +1,4 @@
 <map id="arl::controller::CartesianAdmittance::measure" name="arl::controller::CartesianAdmittance::measure">
-<area shape="rect" id="node2" href="$namespacearl_1_1math.html#abb4e0874e1c1504bdcb4e9726ff77ba1" title="Transforms a rotation matrix to a quaternion. " alt="" coords="232,5,371,32"/>
-<area shape="rect" id="node3" href="$namespacearl_1_1math.html#a337df1569bc80573a59551a146d4fa1e" title="Returns the 6x6 matrix which the upper left and the down right sumbmatrices are the given 3x3 rotatio..." alt="" coords="217,56,386,83"/>
+<area shape="rect" id="node2" href="$group___math_orientation.html#gabb4e0874e1c1504bdcb4e9726ff77ba1" title="Transforms a rotation matrix to a quaternion. " alt="" coords="232,5,371,32"/>
+<area shape="rect" id="node3" href="$group___math_robotics.html#ga337df1569bc80573a59551a146d4fa1e" title="Returns the 6x6 matrix which the upper left and the down right sumbmatrices are the given 3x3 rotatio..." alt="" coords="217,56,386,83"/>
 </map>

@@ -16,7 +16,7 @@ var indexSectionsWithContent =
   6: "mpt",
   7: "acdefjpstuv",
   8: "eimruv",
-  9: "t"
+  9: "dt"
 };
 
 var indexSectionNames =

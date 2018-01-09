@@ -1,7 +1,7 @@
 <map id="arl::robot::RobotSim::setJointTrajectory" name="arl::robot::RobotSim::setJointTrajectory">
 <area shape="rect" id="node2" href="$classarl_1_1robot_1_1_robot_sim.html#a0384be8192ca5e204d675660a56251f5" title="Perfoms a 5th&#45;order trajectory. Called by the RobotSim::setJointTrajectory() functions. " alt="" coords="193,103,381,145"/>
 <area shape="rect" id="node3" href="$classarl_1_1robot_1_1_robot_sim.html#a655a1a25a72f29ebdbf3cf3093b927ea" title="Reads the current joint positions to the robot using KDL. " alt="" coords="429,5,568,46"/>
-<area shape="rect" id="node5" href="$namespacearl_1_1robot_1_1trajectory.html#ada907e0c0e64e12008fc34f6a99b37b0" title="Designs a 5th order trajectory. " alt="" coords="431,70,566,111"/>
+<area shape="rect" id="node5" href="$group___math_robotics.html#gada907e0c0e64e12008fc34f6a99b37b0" title="Designs a 5th order trajectory. " alt="" coords="431,70,566,111"/>
 <area shape="rect" id="node6" href="$classarl_1_1robot_1_1_robot_sim.html#a52843ca6f4dea4d4606e4e4b8b98e448" title="Sends joint positions to the robot using KDL. " alt="" coords="429,135,568,177"/>
 <area shape="rect" id="node8" href="$classarl_1_1robot_1_1_robot_sim.html#a5b63482012b23c1860bd96c08875db2b" title="Waits the remaining amount of time for the next cycle using a ros::Rate. " alt="" coords="429,201,568,242"/>
 <area shape="rect" id="node4" href="$classarl_1_1robot_1_1_robot_sim.html#a69f138757c928780fd24196a171f3d64" title="Called by the RobotSim::getJointPosition() functions. Just writes the the internal state variable to ..." alt="" coords="617,5,794,46"/>
