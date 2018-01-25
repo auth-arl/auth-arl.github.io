@@ -1,0 +1,4 @@
+<map id="arl::controller::JointTrajectory::command" name="arl::controller::JointTrajectory::command">
+<area shape="rect" id="node2" href="$classarl_1_1io_1_1_logger.html#a504326f54af0487e31a7a6ad55e30cee" title="Wrapper for logging an Armadillo vector. " alt="" coords="251,5,378,32"/>
+<area shape="rect" id="node3" href="$classarl_1_1robot_1_1_controller.html#aec250db6a99b38797318371ac7b287bd" title="Returns the current time since the start of the controller in seconds. " alt="" coords="246,57,383,98"/>
+</map>

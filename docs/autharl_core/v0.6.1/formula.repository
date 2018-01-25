@@ -1,0 +1,8 @@
+\form#0:$ \dot{q} = J^+ (\dot{x}_d - K e) $
+\form#1:$\dot{q} \in \mathbb{R}^n$
+\form#2:$n$
+\form#3:$ J^+ $
+\form#4:$\dot{x}_d \in \mathbb{R}^6$
+\form#5:$ K $
+\form#6:$e \in \mathbb{R}^6$
+\form#7:$ p_X(\mu, \Sigma) = \frac{1}{(2\pi)^{n/2}|\Sigma|^{1/2}}exp(-0.5(x - \mu)^T\Sigma^{-1}(x - \mu))$

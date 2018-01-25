@@ -1,0 +1,5 @@
+<map id="arl::robot::RobotSim::getTaskPose" name="arl::robot::RobotSim::getTaskPose">
+<area shape="rect" id="node2" href="$classarl_1_1robot_1_1_robot_sim.html#abd6d14a6476fac21278cef86075f278e" title="Called by the RobotSim::getTaskPose() functions. Returns the Cartesian pose by using the current join..." alt="" coords="193,5,354,46"/>
+<area shape="rect" id="node3" href="$classarl_1_1robot_1_1_robot_sim.html#a655a1a25a72f29ebdbf3cf3093b927ea" title="Reads the current joint positions to the robot using KDL. " alt="" coords="403,5,541,46"/>
+<area shape="rect" id="node4" href="$classarl_1_1robot_1_1_robot_sim.html#a69f138757c928780fd24196a171f3d64" title="Called by the RobotSim::getJointPosition() functions. Just writes the the internal state variable to ..." alt="" coords="590,5,767,46"/>
+</map>

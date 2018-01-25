@@ -1,0 +1,4 @@
+<map id="arl::robot::Robot::getJointVelocityGeneric" name="arl::robot::Robot::getJointVelocityGeneric">
+<area shape="rect" id="node2" href="$classarl_1_1robot_1_1_robot.html#ad93ac4accaf62d998054576003c00d01" title="Reads the current joint positions to the robot using KDL. " alt="" coords="214,5,338,46"/>
+<area shape="rect" id="node3" href="$classarl_1_1robot_1_1_robot.html#a91c24ea89a79ae209cf6d36e34606d6b" title="arl::robot::Robot::\lthrowFunctionIsNotImplemented" alt="" coords="387,5,597,46"/>
+</map>
