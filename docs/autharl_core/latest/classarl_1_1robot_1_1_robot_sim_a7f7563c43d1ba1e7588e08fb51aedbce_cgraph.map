@@ -1,0 +1,10 @@
+<map id="arl::robot::RobotSim::getTwist" name="arl::robot::RobotSim::getTwist">
+<area shape="rect" id="node2" href="$classarl_1_1robot_1_1_robot_sim.html#ad9fa35b64ede3bf010dd366a29f84ce7" title="Called by the RobotSim::getTwist() functions. Calls the getJointVelocity() and getJacobian() and mult..." alt="" coords="192,38,331,79"/>
+<area shape="rect" id="node3" href="$classarl_1_1robot_1_1_robot.html#abb285362dd1a6373a5285ab7323ec058" title="Reads the current joint velocities from the robot using KDL. " alt="" coords="386,5,510,46"/>
+<area shape="rect" id="node7" href="$classarl_1_1robot_1_1_robot_sim.html#a8fc199eb53ecd8135afca5736af4609d" title="Reads the current base Jacobian matrix from the robot using KDL. " alt="" coords="379,70,517,111"/>
+<area shape="rect" id="node4" href="$classarl_1_1robot_1_1_robot.html#a1f6ab3830a463d1d63d6e406ab75c4e0" title="Reads the joint velocity using the derivative of the position (previous and current position) ..." alt="" coords="565,5,725,46"/>
+<area shape="rect" id="node5" href="$classarl_1_1robot_1_1_robot.html#ad93ac4accaf62d998054576003c00d01" title="Reads the current joint positions to the robot using KDL. " alt="" coords="801,5,925,46"/>
+<area shape="rect" id="node6" href="$classarl_1_1robot_1_1_robot.html#a91c24ea89a79ae209cf6d36e34606d6b" title="arl::robot::Robot::\lthrowFunctionIsNotImplemented" alt="" coords="1000,5,1211,46"/>
+<area shape="rect" id="node8" href="$classarl_1_1robot_1_1_robot_sim.html#a655a1a25a72f29ebdbf3cf3093b927ea" title="Reads the current joint positions to the robot using KDL. " alt="" coords="576,70,715,111"/>
+<area shape="rect" id="node9" href="$classarl_1_1robot_1_1_robot_sim.html#a69f138757c928780fd24196a171f3d64" title="Called by the RobotSim::getJointPosition() functions. Just writes the the internal state variable to ..." alt="" coords="774,70,951,111"/>
+</map>

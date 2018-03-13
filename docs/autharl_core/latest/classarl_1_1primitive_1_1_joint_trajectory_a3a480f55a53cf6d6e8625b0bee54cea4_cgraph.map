@@ -1,0 +1,4 @@
+<map id="arl::primitive::JointTrajectory::acc" name="arl::primitive::JointTrajectory::acc">
+<area shape="rect" id="node2" href="$classarl_1_1primitive_1_1_joint_trajectory.html#a577b73f5e78f1ce14b29d084ba303edb" title="Returns the duration of the trajectory. " alt="" coords="271,5,457,46"/>
+<area shape="rect" id="node3" href="$classarl_1_1primitive_1_1_trajectory.html#a402e83be8d5c5b6e2b98a85a4c4211b8" title="Calculates the acceleration for the given time. " alt="" coords="270,71,458,97"/>
+</map>

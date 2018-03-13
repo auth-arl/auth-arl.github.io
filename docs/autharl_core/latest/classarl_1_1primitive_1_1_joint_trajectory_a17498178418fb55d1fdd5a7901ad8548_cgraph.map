@@ -1,0 +1,9 @@
+<map id="arl::primitive::JointTrajectory::JointTrajectory" name="arl::primitive::JointTrajectory::JointTrajectory">
+<area shape="rect" id="node2" href="$classarl_1_1primitive_1_1_joint_trajectory.html#af0ef4896ac72eb603ef99faa9631792c" title="Returns the positions of the joints for the given time. " alt="" coords="240,89,456,116"/>
+<area shape="rect" id="node5" href="$classarl_1_1primitive_1_1_joint_trajectory.html#a0ed820cf766e4d48b07543a855274785" title="Returns the velocities of the joints for the given time. " alt="" coords="242,39,454,65"/>
+<area shape="rect" id="node7" href="$classarl_1_1primitive_1_1_joint_trajectory.html#a3a480f55a53cf6d6e8625b0bee54cea4" title="Returns the accelerations of the joints for the given time. " alt="" coords="240,140,456,167"/>
+<area shape="rect" id="node3" href="$classarl_1_1primitive_1_1_joint_trajectory.html#a577b73f5e78f1ce14b29d084ba303edb" title="Returns the duration of the trajectory. " alt="" coords="505,57,692,98"/>
+<area shape="rect" id="node4" href="$classarl_1_1primitive_1_1_trajectory.html#a530263614280854ab8ff9b4844722e77" title="Calculates the position for the given time. " alt="" coords="505,123,693,149"/>
+<area shape="rect" id="node6" href="$classarl_1_1primitive_1_1_trajectory.html#a1adecb0c9e451f7026db057f1317a8b2" title="Calculates the velocity for the given time. " alt="" coords="507,5,691,32"/>
+<area shape="rect" id="node8" href="$classarl_1_1primitive_1_1_trajectory.html#a402e83be8d5c5b6e2b98a85a4c4211b8" title="Calculates the acceleration for the given time. " alt="" coords="505,173,693,200"/>
+</map>
