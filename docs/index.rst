@@ -10,4 +10,5 @@ This page includes documentation and tutorials for using the C++ libraries devel
 
 In the following links you can find Doxygen documentation for the following projects:
 
-- `AUTh-ARL Core Stack <https://auth-arl.github.io/docs/autharl_core/v0.6.2/index.html>`_
+- `AUTh-ARL Core Stack <https://auth-arl.github.io/docs/autharl_core/latest/index.html>`_
+- `Flat Object Grasping Library (FOG) <https://auth-arl.github.io/docs/fog/latest/index.html>`_
