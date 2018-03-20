@@ -1,0 +1,12 @@
+<map id="fog::ObjectSurfaceCombination::extract" name="fog::ObjectSurfaceCombination::extract">
+<area shape="rect" id="node2" href="$namespacefog.html#ac77a1d5273de0a91721ac10c3ddaaa3b" title="Downsamples a point cloud using PCL&#39;s Voxel Grid. " alt="" coords="295,5,433,32"/>
+<area shape="rect" id="node3" href="$namespacefog.html#ac55f459fe15d6f9b538a2687519f1784" title="Projects a point cloud on to a plane defined by its normal vector and a point which belongs on the pl..." alt="" coords="280,57,448,98"/>
+<area shape="rect" id="node6" href="$classfog_1_1_object_surface_combination.html#a5926562bc61b486b312e97758e51b030" title="Calculates the non convex points, i.e. the set &#160;(Eq. (11) ). " alt="" coords="262,122,466,163"/>
+<area shape="rect" id="node9" href="$classfog_1_1_object_surface_combination.html#a8599883865450b0076af5335d71951e3" title="Calculates set of pairs of the feasible non&#45;convex points &#160;(Eq. (14), (15) ). " alt="" coords="259,231,469,273"/>
+<area shape="rect" id="node4" href="$namespacefog.html#ae9efcd7817bb841a2d67dccfd129323a" title="Projects orthogonally a 3D point onto a plane given a point of the plane and its normal vector..." alt="" coords="522,28,699,55"/>
+<area shape="rect" id="node5" href="$namespacefog.html#ac32cb3c4fca2ec91d841aa223c748e91" title="Mapping of an Eigen Vector to a PCL Point XYZ. " alt="" coords="540,79,681,105"/>
+<area shape="rect" id="node7" href="$namespacefog.html#a7ddae82107f1cd7e13d03506f7078a6d" title="Returns a 3D point in the line segment between two points. " alt="" coords="758,143,941,169"/>
+<area shape="rect" id="node8" href="$namespacefog.html#ac59cff7b9e9539f69d1ae2ed816f3df5" title="Returns the minimum distance of the given point from the given point cloud, using a K&#45;NN Search for o..." alt="" coords="752,206,947,247"/>
+<area shape="rect" id="node10" href="$namespacefog.html#a041e9196d84055c50a828eaf23f9b2f9" title="Provides points far from the one by sampling a circular curve with radius r, centered in the given po..." alt="" coords="517,297,704,324"/>
+<area shape="rect" id="node11" href="$namespacefog.html#ab5246f92d770b8f92ddb767b66fe4950" title="Checks if the linear path is clear betweein two points. " alt="" coords="524,231,697,273"/>
+</map>

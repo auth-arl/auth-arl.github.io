@@ -1,0 +1,6 @@
+<map id="fog::ObjectSurfaceCombination::calcFeasibleNonConvexPoints" name="fog::ObjectSurfaceCombination::calcFeasibleNonConvexPoints">
+<area shape="rect" id="node2" href="$namespacefog.html#a041e9196d84055c50a828eaf23f9b2f9" title="Provides points far from the one by sampling a circular curve with radius r, centered in the given po..." alt="" coords="264,5,451,32"/>
+<area shape="rect" id="node3" href="$namespacefog.html#ab5246f92d770b8f92ddb767b66fe4950" title="Checks if the linear path is clear betweein two points. " alt="" coords="271,57,444,98"/>
+<area shape="rect" id="node4" href="$namespacefog.html#a7ddae82107f1cd7e13d03506f7078a6d" title="Returns a 3D point in the line segment between two points. " alt="" coords="505,35,687,61"/>
+<area shape="rect" id="node5" href="$namespacefog.html#ac59cff7b9e9539f69d1ae2ed816f3df5" title="Returns the minimum distance of the given point from the given point cloud, using a K&#45;NN Search for o..." alt="" coords="499,86,693,127"/>
+</map>

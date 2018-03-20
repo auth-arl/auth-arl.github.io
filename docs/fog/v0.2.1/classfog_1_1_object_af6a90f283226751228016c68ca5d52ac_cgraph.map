@@ -1,0 +1,3 @@
+<map id="fog::Object::filterPointCloud" name="fog::Object::filterPointCloud">
+<area shape="rect" id="node2" href="$namespacefog.html#ac77a1d5273de0a91721ac10c3ddaaa3b" title="Downsamples a point cloud using PCL&#39;s Voxel Grid. " alt="" coords="203,12,341,39"/>
+</map>

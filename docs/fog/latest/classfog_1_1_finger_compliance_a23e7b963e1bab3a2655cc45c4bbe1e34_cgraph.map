@@ -1,0 +1,6 @@
+<map id="fog::FingerCompliance::update" name="fog::FingerCompliance::update">
+<area shape="rect" id="node2" href="$classfog_1_1_finger_compliance.html#ad92df27cbfb9dfe8b51a3e0fd7ea8cca" title="fog::FingerCompliance\l::updateAdmittance" alt="" coords="209,5,362,46"/>
+<area shape="rect" id="node4" href="$classfog_1_1_finger_compliance.html#a614dc031bdd2e313d1f391bc522da90b" title="fog::FingerCompliance\l::updateCompliance" alt="" coords="209,70,362,111"/>
+<area shape="rect" id="node5" href="$classfog_1_1_finger_compliance.html#a02391021124fbdfe8e496108d43fa2a0" title="fog::FingerCompliance\l::updateHand" alt="" coords="209,135,362,177"/>
+<area shape="rect" id="node3" href="$classfog_1_1_finger_compliance.html#a4882da88adc0185e77d522b92b73ac10" title="fog::FingerCompliance\l::updateRef" alt="" coords="411,5,565,46"/>
+</map>

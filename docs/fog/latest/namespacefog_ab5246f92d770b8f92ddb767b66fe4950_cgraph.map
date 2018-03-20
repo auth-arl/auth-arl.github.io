@@ -1,0 +1,4 @@
+<map id="fog::isTheLinearPathClearBetweenTwoPoints" name="fog::isTheLinearPathClearBetweenTwoPoints">
+<area shape="rect" id="node2" href="$namespacefog.html#a7ddae82107f1cd7e13d03506f7078a6d" title="Returns a 3D point in the line segment between two points. " alt="" coords="233,5,415,32"/>
+<area shape="rect" id="node3" href="$namespacefog.html#ac59cff7b9e9539f69d1ae2ed816f3df5" title="Returns the minimum distance of the given point from the given point cloud, using a K&#45;NN Search for o..." alt="" coords="227,57,421,98"/>
+</map>

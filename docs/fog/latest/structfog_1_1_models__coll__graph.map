@@ -1,0 +1,6 @@
+<map id="fog::Models" name="fog::Models">
+<area shape="rect" id="node2" href="$classfog_1_1_hand.html" title="Represents the robotic hand as it is considered in the FOG framework. " alt="" coords="5,5,83,32"/>
+<area shape="rect" id="node3" href="$classfog_1_1_object_surface_combination.html" title="Represents the object&#45;surface combination as it is considered in the FOG framework, i.e. the set of non&#45;convex directions . " alt="" coords="107,5,311,32"/>
+<area shape="rect" id="node4" href="$classfog_1_1_surface.html" title="Represents the support surface as it is considered in the FOG framework, as rectangle with 4 limits..." alt="" coords="360,5,453,32"/>
+<area shape="rect" id="node5" href="$classfog_1_1_object.html" title="Represents the target object as it is considered in the FOG framework. " alt="" coords="478,5,564,32"/>
+</map>

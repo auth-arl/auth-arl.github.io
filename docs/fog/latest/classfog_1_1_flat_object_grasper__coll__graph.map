@@ -1,0 +1,5 @@
+<map id="fog::FlatObjectGrasper" name="fog::FlatObjectGrasper">
+<area shape="rect" id="node2" href="$classfog_1_1_r_visualizer.html" title="Visualizes in RViz FOG models. In order to see the models, add in your RViz configuration a PointClou..." alt="" coords="23,96,137,123"/>
+<area shape="rect" id="node4" href="$classfog_1_1_decision_maker.html" title="Decides which of the available grasp strategies can be used for grasping the target object..." alt="" coords="173,96,307,123"/>
+<area shape="rect" id="node5" href="$structfog_1_1_enabling_conditions.html" title="The enabling conditions for the Decision Making. " alt="" coords="165,5,324,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="fog::IGSPlanner::run" name="fog::IGSPlanner::run">
+<area shape="rect" id="node2" href="$classfog_1_1_i_g_s_planner.html#ae4aa198611a199fb871ba20305259d2f" title="Produces IGS for strategy alpha. " alt="" coords="222,5,391,46"/>
+<area shape="rect" id="node4" href="$classfog_1_1_i_g_s_planner.html#adf9f1d6f4e9d11394b8645887e40b632" title="Produces IGS for strategy beta. " alt="" coords="222,70,391,111"/>
+<area shape="rect" id="node5" href="$classfog_1_1_i_g_s_planner.html#aed139dbd5d84cb464e838dc715c6efdc" title="Calculates which of the four edges of the support surface is closest to the object. Used by strategy&#45; . " alt="" coords="195,135,419,177"/>
+<area shape="rect" id="node6" href="$classfog_1_1_i_g_s_planner.html#aa44ea6f8779cca7214b31c6bd3afa5f9" title="Produces IGS for strategy gamma. " alt="" coords="222,201,391,242"/>
+<area shape="rect" id="node3" href="$classfog_1_1_i_g_s_planner.html#af60e9f35b99d217d658841d02eab808c" title="Calculates the direction vector &#160;used in Eq. 19 of the manuscript. " alt="" coords="467,12,674,39"/>
+</map>

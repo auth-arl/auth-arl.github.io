@@ -1,0 +1,4 @@
+<map id="fog::DecisionMaker::enableStrategies" name="fog::DecisionMaker::enableStrategies">
+<area shape="rect" id="node2" href="$classfog_1_1_decision_maker.html#a6f212b3020f1088912fd7d02fec76afd" title="Generates feasible directions (set ) based on the usable directions and the spread. " alt="" coords="190,5,378,46"/>
+<area shape="rect" id="node3" href="$classfog_1_1_decision_maker.html#a30c4ee9e018f7fc05ef61fcab67151d9" title="Based on the hand/object/surface models, sets the enable conditions, top reachability etc..." alt="" coords="204,70,364,111"/>
+</map>

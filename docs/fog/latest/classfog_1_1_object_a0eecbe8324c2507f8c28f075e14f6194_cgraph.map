@@ -1,0 +1,5 @@
+<map id="fog::Object::extract" name="fog::Object::extract">
+<area shape="rect" id="node2" href="$namespacefog.html#ae9f4afc8c0ca51e2793b03109102c7de" title="Extracts the oriented bounding box of the given point cloud. " alt="" coords="205,5,371,32"/>
+<area shape="rect" id="node3" href="$classfog_1_1_object.html#a16a8cd82fce0e9a85e09c70c1ce6e3a1" title="fog::Object::extractOpposable\lDirections" alt="" coords="190,57,386,98"/>
+<area shape="rect" id="node4" href="$classfog_1_1_object.html#acf4c07b17ad810fc3f14edcbb1d35080" title="fog::Object::checkFlatness" alt="" coords="199,123,377,149"/>
+</map>

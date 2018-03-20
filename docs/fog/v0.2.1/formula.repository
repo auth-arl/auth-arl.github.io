@@ -1,0 +1,36 @@
+\form#0:$\alpha$
+\form#1:$\beta$
+\form#2:$\mathcal{D}$
+\form#3:$\mathcal{H}_f$
+\form#4:$\hat{\mathbf{h}}_n$
+\form#5:$h_1$
+\form#6:$h_2$
+\form#7:$\epsilon$
+\form#8:$\mathbf{d}_{min}$
+\form#9:$\gamma$
+\form#10:$ [\mathbf{p_1}, \mathbf{p_2}] = \{\mathbf{p} \in \mathbb{R}^3 \; | \; \mathbf{p} = (1-\lambda)\mathbf{p}_1 + \lambda \mathbf{p}_2, 0 \leq \lambda \leq 1\} $
+\form#11:$\lambda$
+\form#12:$\mathcal{R}$
+\form#13:$\phi(d, \mathcal{H})$
+\form#14:$\mathbf{o}_{p, i}$
+\form#15:$\mathbf{o}_b$
+\form#16:$\mathcal{O}_u$
+\form#17:$\mathcal{N}_f$
+\form#18:$\mathcal{N}$
+\form#19:$\mu$
+\form#20:$\mathcal{S}_O$
+\form#21:$\mathcal{A} =\mathcal{S}_O \cup \mathcal{O}$
+\form#22:$\mathbf{p}_R$
+\form#23:$\mathbf{p}_N$
+\form#24:$r$
+\form#25:$h$
+\form#26:$\phi$
+\form#27:$\theta$
+\form#28:$|\mathbf{v}_G|$
+\form#29:$\mathbf{s}_p$
+\form#30:$\hat{\mathbf{s}}_n$
+\form#31:$\hat{\mathbf{s}}_{l,k}$
+\form#32:$\hat{\mathbf{s}}_{b,k}$
+\form#33:$\in \mathbb{R}^{n\times 3}$
+\form#34:$\in \mathbb{R}^{3}$
+\form#35:$\in SE(3)$

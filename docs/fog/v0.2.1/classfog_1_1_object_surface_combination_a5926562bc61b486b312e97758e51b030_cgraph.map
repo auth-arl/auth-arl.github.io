@@ -1,0 +1,6 @@
+<map id="fog::ObjectSurfaceCombination::calcNonConvexPoints" name="fog::ObjectSurfaceCombination::calcNonConvexPoints">
+<area shape="rect" id="node2" href="$namespacefog.html#ae9efcd7817bb841a2d67dccfd129323a" title="Projects orthogonally a 3D point onto a plane given a point of the plane and its normal vector..." alt="" coords="267,5,445,32"/>
+<area shape="rect" id="node3" href="$namespacefog.html#a7ddae82107f1cd7e13d03506f7078a6d" title="Returns a 3D point in the line segment between two points. " alt="" coords="265,56,447,83"/>
+<area shape="rect" id="node4" href="$namespacefog.html#ac59cff7b9e9539f69d1ae2ed816f3df5" title="Returns the minimum distance of the given point from the given point cloud, using a K&#45;NN Search for o..." alt="" coords="259,107,453,149"/>
+<area shape="rect" id="node5" href="$namespacefog.html#ac32cb3c4fca2ec91d841aa223c748e91" title="Mapping of an Eigen Vector to a PCL Point XYZ. " alt="" coords="285,173,427,200"/>
+</map>

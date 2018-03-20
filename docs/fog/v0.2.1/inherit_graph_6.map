@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classfog_1_1_finger_compliance.html" title="Implements a controller for active compliance of the hand&#39;s fingers. " alt="" coords="134,5,287,32"/>
+<area shape="rect" id="node3" href="$classfog_1_1_reach_f_g_s_alpha.html" title="A class that implements the controller for reaching the FGS state for the strategy&#45; ..." alt="" coords="137,56,284,83"/>
+<area shape="rect" id="node4" href="$classfog_1_1_reach_f_g_s_beta.html" title="A class that implements the controller for reaching the FGS state for the strategy&#45; ..." alt="" coords="141,107,281,133"/>
+<area shape="rect" id="node5" href="$classfog_1_1_reach_p_g_s_beta.html" title="A class that implements the controller for reaching the PGS state. It reads feedback from the positio..." alt="" coords="140,157,281,184"/>
+<area shape="rect" id="node6" href="$classfog_1_1_update_b_hand.html" title="fog::UpdateBHand" alt="" coords="145,208,276,235"/>
+</map>

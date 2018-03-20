@@ -1,0 +1,4 @@
+<map id="fog::projectPointCloudOnSurface" name="fog::projectPointCloudOnSurface">
+<area shape="rect" id="node2" href="$namespacefog.html#ae9efcd7817bb841a2d67dccfd129323a" title="Projects orthogonally a 3D point onto a plane given a point of the plane and its normal vector..." alt="" coords="222,5,399,32"/>
+<area shape="rect" id="node3" href="$namespacefog.html#ac32cb3c4fca2ec91d841aa223c748e91" title="Mapping of an Eigen Vector to a PCL Point XYZ. " alt="" coords="240,56,381,83"/>
+</map>
