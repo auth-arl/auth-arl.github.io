@@ -1,5 +1,0 @@
-<map id="arl::controller::CartesianAdmittance::init" name="arl::controller::CartesianAdmittance::init">
-<area shape="rect" id="node2" href="$classarl_1_1math_1_1_admittance.html#aa108005407bf30a834d40055f36b1526" title="Sets the parameters (stiffness, damping, inertia) based on desired damping ratio and response time of..." alt="" coords="216,5,363,46"/>
-<area shape="rect" id="node3" href="$classarl_1_1math_1_1_admittance.html#a1b3cc7f5352343fdf7bedee8a71ca29e" title="Sets the initial state of the system. Should be called before the control loops starts. " alt="" coords="216,70,363,111"/>
-<area shape="rect" id="node4" href="$group___math_orientation.html#gabb4e0874e1c1504bdcb4e9726ff77ba1" title="Transforms a rotation matrix to a quaternion. " alt="" coords="220,136,359,163"/>
-</map>

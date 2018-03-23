@@ -1,5 +1,0 @@
-<map id="arl::bhand::Robot::getTaskPosition" name="arl::bhand::Robot::getTaskPosition">
-<area shape="rect" id="node2" href="$classarl_1_1bhand_1_1_robot.html#a325b1764f4ac279689394a04c19ddcc9" title="arl::bhand::Robot::\lgetTaskPositionTemplate" alt="" coords="184,5,355,46"/>
-<area shape="rect" id="node3" href="$classarl_1_1bhand_1_1_robot.html#ac3dc56525b40ff6930a6691c5e263514" title="Reads the current joint positions to the robot using KDL. " alt="" coords="403,5,533,46"/>
-<area shape="rect" id="node4" href="$classarl_1_1bhand_1_1_robot.html#a7c75d9dcdffb14d158b83a75492ed11d" title="arl::bhand::Robot::\lgetJointPositionTemplate" alt="" coords="582,5,751,46"/>
-</map>

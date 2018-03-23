@@ -1,9 +1,0 @@
-<map id="lwr::robot::Robot::setJointTrajectoryTemplate" name="lwr::robot::Robot::setJointTrajectoryTemplate">
-<area shape="rect" id="node2" href="$classlwr_1_1robot_1_1_robot.html#aa26ba4e0a3be33418d8bcb284dbd4fd6" title="Reads the current joint positions to the robot using KDL. " alt="" coords="239,5,366,46"/>
-<area shape="rect" id="node4" href="$classlwr_1_1robot_1_1_robot.html#a5b5f715b3a7933109ed56e8118dada1a" title="Sets the mode of the robot. " alt="" coords="239,70,366,111"/>
-<area shape="rect" id="node5" href="$classlwr_1_1robot_1_1_robot.html#a1b478a8e5d482e4167ad81b985c4ac64" title="Function that blocks the control loop before the next control cycle starts. " alt="" coords="239,135,366,177"/>
-<area shape="rect" id="node6" href="$group___math_robotics.html#gada907e0c0e64e12008fc34f6a99b37b0" title="Designs a 5th order trajectory. " alt="" coords="235,201,370,242"/>
-<area shape="rect" id="node7" href="$classlwr_1_1robot_1_1_robot.html#afdd63460610385caf4b6d62747a7fd29" title="Sends joint positions to the robot using KDL. " alt="" coords="239,266,366,307"/>
-<area shape="rect" id="node3" href="$classlwr_1_1robot_1_1_robot.html#aeac89b6fa55480b9ba43a55b9486bdbc" title="lwr::robot::Robot::\lgetJointPositionTemplate" alt="" coords="419,5,589,46"/>
-<area shape="rect" id="node8" href="$classlwr_1_1robot_1_1_robot.html#afd39535d46350e0adaff67991c25b0b4" title="lwr::robot::Robot::\lsetJointPositionTemplate" alt="" coords="419,266,589,307"/>
-</map>

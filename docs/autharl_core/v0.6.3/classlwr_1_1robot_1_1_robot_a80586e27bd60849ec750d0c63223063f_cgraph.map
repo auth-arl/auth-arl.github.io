@@ -1,4 +1,0 @@
-<map id="lwr::robot::Robot::isOk" name="lwr::robot::Robot::isOk">
-<area shape="rect" id="node2" href="$classlwr_1_1robot_1_1_robot.html#acecd88e980993f91782a25018fb96209" title="Reads the current Cartesian orientation (Rotation matrix) from the robot using KDL. " alt="" coords="209,5,341,46"/>
-<area shape="rect" id="node3" href="$classlwr_1_1robot_1_1_robot.html#aa5090ef40a79fd8ccf306c23dcf5bb58" title="lwr::robot::Robot::\lgetTaskOrientationTemplate" alt="" coords="389,5,576,46"/>
-</map>

@@ -1,3 +1,0 @@
-<map id="arl::robot::Model::getJointLimit" name="arl::robot::Model::getJointLimit">
-<area shape="rect" id="node2" href="$classarl_1_1robot_1_1_model.html#a9ffefe80f67ea7e7970e5f79a0de0dcd" title="Returns the total number of the joints (total DOFs) of the robot model. " alt="" coords="179,5,303,46"/>
-</map>

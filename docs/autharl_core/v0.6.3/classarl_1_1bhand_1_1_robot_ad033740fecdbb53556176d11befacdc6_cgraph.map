@@ -1,5 +1,0 @@
-<map id="arl::bhand::Robot::Robot" name="arl::bhand::Robot::Robot">
-<area shape="rect" id="node2" href="$classarl_1_1bhand_1_1_robot.html#a88c5ede3226a232889cddb77b8ec349e" title="Function that blocks the control loop before the next control cycle starts. " alt="" coords="184,5,315,46"/>
-<area shape="rect" id="node3" href="$classarl_1_1bhand_1_1_robot.html#aae09a99ec606a279634363064ffb5156" title="Reads the current joint torques from the robot using KDL. " alt="" coords="184,70,315,111"/>
-<area shape="rect" id="node4" href="$classarl_1_1bhand_1_1_robot.html#af0624987ddf3be3039dbeaf7b6d6dc2b" title="arl::bhand::Robot::\lgetJointTorqueTemplate" alt="" coords="363,70,525,111"/>
-</map>

@@ -1,3 +1,0 @@
-<map id="arl::bhand::Robot::setJointPosition" name="arl::bhand::Robot::setJointPosition">
-<area shape="rect" id="node2" href="$classarl_1_1bhand_1_1_robot.html#a3c45db9b0ae34f91cd5bd2af0f1252c9" title="Called by the RobotSim::setJointPosition() functions. Just writes the input to an internal state vari..." alt="" coords="185,5,354,46"/>
-</map>

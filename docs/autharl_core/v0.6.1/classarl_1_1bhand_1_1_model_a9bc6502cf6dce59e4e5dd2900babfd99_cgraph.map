@@ -1,4 +1,0 @@
-<map id="arl::bhand::Model::Model" name="arl::bhand::Model::Model">
-<area shape="rect" id="node2" href="$classarl_1_1robot_1_1_model.html#a6edd9b899b387a9e28b4c8f5a19a6c72" title="Tests if a model has initialized properly. Call it in your implemented derived class constructor..." alt="" coords="184,12,331,39"/>
-<area shape="rect" id="node3" href="$classarl_1_1robot_1_1_model.html#a9ffefe80f67ea7e7970e5f79a0de0dcd" title="Returns the total number of the joints (total DOFs) of the robot model. " alt="" coords="379,5,503,46"/>
-</map>

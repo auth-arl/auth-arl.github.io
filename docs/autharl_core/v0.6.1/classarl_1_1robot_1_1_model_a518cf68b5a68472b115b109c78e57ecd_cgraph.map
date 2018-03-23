@@ -1,6 +1,0 @@
-<map id="arl::robot::Model::getJointLimits" name="arl::robot::Model::getJointLimits">
-<area shape="rect" id="node2" href="$classarl_1_1robot_1_1_model.html#a11f71495667ba19662410a00e64178f5" title="Returns the total number of the chains of the model. " alt="" coords="526,5,650,46"/>
-<area shape="rect" id="node3" href="$classarl_1_1robot_1_1_model.html#a9ffefe80f67ea7e7970e5f79a0de0dcd" title="Returns the total number of the joints (total DOFs) of the robot model. " alt="" coords="526,83,650,125"/>
-<area shape="rect" id="node4" href="$classarl_1_1robot_1_1_model.html#a59d108ed8d9135f9ed30b233fb3c9ded" title="Returns the limit of a joint existing in a given chain. " alt="" coords="179,50,303,91"/>
-<area shape="rect" id="node5" href="$classarl_1_1robot_1_1_model.html#a151f4af192129c0c85d34ec7308966e8" title="Returns the index of a joint existing in a given main chain. This index is out of the total main join..." alt="" coords="353,50,477,91"/>
-</map>

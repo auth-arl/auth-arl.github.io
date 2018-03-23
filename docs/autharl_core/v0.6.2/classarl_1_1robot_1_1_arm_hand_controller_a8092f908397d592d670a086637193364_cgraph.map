@@ -1,8 +1,0 @@
-<map id="arl::robot::ArmHandController::run" name="arl::robot::ArmHandController::run">
-<area shape="rect" id="node2" href="$classarl_1_1robot_1_1_controller.html#af28359b663c9c19118b5900a812e3b43" title="Initializes the controller. " alt="" coords="273,5,410,46"/>
-<area shape="rect" id="node4" href="$classarl_1_1robot_1_1_controller.html#afa49fdbc2c24957201f0fa03e315e8ff" title="Implements the stopping condition of your controller. " alt="" coords="273,70,410,111"/>
-<area shape="rect" id="node5" href="$classarl_1_1robot_1_1_controller.html#a59c291bf5ccbaa273976956f190794f3" title="Measures the desired data. " alt="" coords="273,135,410,177"/>
-<area shape="rect" id="node6" href="$classarl_1_1robot_1_1_controller.html#ab39ee6179416f0fd2c6c4de6249d9c38" title="Performs the necessary calculations of the controller. " alt="" coords="273,201,410,242"/>
-<area shape="rect" id="node7" href="$classarl_1_1robot_1_1_controller.html#ab963c74d1fadcefd8e6220662379d073" title="Commands the robot. " alt="" coords="273,266,410,307"/>
-<area shape="rect" id="node3" href="$classarl_1_1utils_1_1_timer.html#a962fe2af85a6a3b78216c96287f00002" title="Initialize timer to run for the first time. " alt="" coords="459,12,594,39"/>
-</map>

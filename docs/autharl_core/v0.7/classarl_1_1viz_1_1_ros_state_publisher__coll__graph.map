@@ -1,6 +1,0 @@
-<map id="arl::viz::RosStatePublisher" name="arl::viz::RosStatePublisher">
-<area shape="rect" id="node2" href="$classarl_1_1robot_1_1_controller.html" title="An abstract class which implements a robot controller. " alt="" coords="143,155,280,181"/>
-<area shape="rect" id="node3" href="$classarl_1_1utils_1_1_timer.html" title="Provides timing capabilities, like measure the time elapsed since the last call (e.g. useful in a control loop). " alt="" coords="5,13,115,40"/>
-<area shape="rect" id="node4" href="$classarl_1_1io_1_1_logger.html" title="Helper class providing logging capabilities. Useful in control loops for logging data and easily pars..." alt="" coords="173,13,275,40"/>
-<area shape="rect" id="node5" href="$classarl_1_1viz_1_1_r_visualizer.html" title="This class implements visualization functionalities for RViz. " alt="" coords="305,155,440,181"/>
-</map>

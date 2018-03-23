@@ -1,7 +1,0 @@
-<map id="lwr::robot::Robot::getTwist" name="lwr::robot::Robot::getTwist">
-<area shape="rect" id="node2" href="$classlwr_1_1robot_1_1_robot.html#a05b0bb7f32e98a87de93287598d23052" title="lwr::robot::Robot::\lgetTwistTemplate" alt="" coords="182,38,309,79"/>
-<area shape="rect" id="node3" href="$classlwr_1_1robot_1_1_robot.html#a57829944ead7fdbd879b61411b42059e" title="Reads the current joint velocities from the robot using KDL. " alt="" coords="358,5,485,46"/>
-<area shape="rect" id="node5" href="$classlwr_1_1robot_1_1_robot.html#a5c57896cbdc811b662a99c9effa1b35b" title="Reads the current base Jacobian matrix from the robot using KDL. " alt="" coords="358,70,485,111"/>
-<area shape="rect" id="node4" href="$classlwr_1_1robot_1_1_robot.html#ab83050cf5cf9ae8919db5a3174940ece" title="lwr::robot::Robot::\lgetJointVelocityTemplate" alt="" coords="534,5,703,46"/>
-<area shape="rect" id="node6" href="$classlwr_1_1robot_1_1_robot.html#a8268fa3e5dfff7db43366a984d723899" title="lwr::robot::Robot::\lgetJacobianTemplate" alt="" coords="545,70,692,111"/>
-</map>

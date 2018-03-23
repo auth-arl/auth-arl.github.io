@@ -1,4 +1,0 @@
-<map id="arl::math::getTwistTransformation" name="arl::math::getTwistTransformation">
-<area shape="rect" id="node2" href="$group___math_robotics.html#gae096bdbbfbaaa79d825b9a8efa0d962c" title="Returns the screw transformation. " alt="" coords="273,5,495,32"/>
-<area shape="rect" id="node3" href="$group___math_robotics.html#ga109b0f45c469d8ae2179048a0882a9c3" title="Calculates the skew symmetrix given a 3D vector using KDL. " alt="" coords="545,5,719,32"/>
-</map>

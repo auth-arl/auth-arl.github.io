@@ -1,4 +1,0 @@
-<map id="arl::viz::RVisualizer::visualizeFrame" name="arl::viz::RVisualizer::visualizeFrame">
-<area shape="rect" id="node2" href="$namespacearl_1_1utils.html#a71c5812c8936e262974c886fdcf62a2d" title="Converts a KDL vector to an arma vector. " alt="" coords="189,5,328,32"/>
-<area shape="rect" id="node3" href="$group___math_orientation.html#gabb4e0874e1c1504bdcb4e9726ff77ba1" title="Transforms a rotation matrix to a quaternion. " alt="" coords="189,56,328,83"/>
-</map>

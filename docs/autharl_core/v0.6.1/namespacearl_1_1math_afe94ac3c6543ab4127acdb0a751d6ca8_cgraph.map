@@ -1,5 +1,0 @@
-<map id="arl::math::rotateQuat" name="arl::math::rotateQuat">
-<area shape="rect" id="node2" href="$namespacearl_1_1math.html#afc4569b9300cd46df7b8573b39c99722" title="Calculates the product of two quaternions. " alt="" coords="198,5,370,32"/>
-<area shape="rect" id="node4" href="$namespacearl_1_1math.html#ae5cbf84c1794b164c19e27aa2bb884b3" title="arl::math::getQuatExp" alt="" coords="209,56,359,83"/>
-<area shape="rect" id="node3" href="$namespacearl_1_1math.html#a109b0f45c469d8ae2179048a0882a9c3" title="Calculates the skew symmetrix given a 3D vector using KDL. " alt="" coords="419,5,594,32"/>
-</map>

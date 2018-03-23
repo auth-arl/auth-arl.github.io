@@ -1,4 +1,0 @@
-<map id="arl::mujoco::LwrBhandModel" name="arl::mujoco::LwrBhandModel">
-<area shape="rect" id="node2" href="$classarl_1_1mujoco_1_1_model.html" title="Class representing a Robot Model in MuJoCo. " alt="" coords="34,80,163,107"/>
-<area shape="rect" id="node3" href="$classarl_1_1robot_1_1_model.html" title="Defines an abstract model for a robot storing information like DOFs, kinematics etc. " alt="" coords="41,5,156,32"/>
-</map>

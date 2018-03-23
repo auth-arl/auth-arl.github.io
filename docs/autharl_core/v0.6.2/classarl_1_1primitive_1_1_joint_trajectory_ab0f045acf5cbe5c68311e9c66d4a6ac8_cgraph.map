@@ -1,3 +1,0 @@
-<map id="arl::primitive::JointTrajectory::scaleDuration" name="arl::primitive::JointTrajectory::scaleDuration">
-<area shape="rect" id="node2" href="$classarl_1_1primitive_1_1_joint_trajectory.html#a23148f228106c812b641e11abfcecc1e" title="Scales the trajectory given a factor, by multiplying time with this factor, velocity with 1/factor an..." alt="" coords="240,5,427,46"/>
-</map>

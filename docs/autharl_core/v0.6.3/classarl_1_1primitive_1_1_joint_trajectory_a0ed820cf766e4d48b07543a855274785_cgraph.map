@@ -1,4 +1,0 @@
-<map id="arl::primitive::JointTrajectory::vel" name="arl::primitive::JointTrajectory::vel">
-<area shape="rect" id="node2" href="$classarl_1_1primitive_1_1_joint_trajectory.html#a577b73f5e78f1ce14b29d084ba303edb" title="Returns the duration of the trajectory. " alt="" coords="267,5,453,46"/>
-<area shape="rect" id="node3" href="$classarl_1_1primitive_1_1_trajectory.html#a1adecb0c9e451f7026db057f1317a8b2" title="Calculates the velocity for the given time. " alt="" coords="268,71,452,97"/>
-</map>

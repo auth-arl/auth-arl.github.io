@@ -1,6 +1,0 @@
-<map id="arl::robot::Robot" name="arl::robot::Robot">
-<area shape="rect" id="node2" href="$classarl_1_1bhand_1_1_robot.html" title="arl::bhand::Robot" alt="" coords="5,80,128,107"/>
-<area shape="rect" id="node3" href="$classarl_1_1mujoco_1_1_robot.html" title="Class representing a Robot in MuJoCo. " alt="" coords="153,80,281,107"/>
-<area shape="rect" id="node4" href="$classarl_1_1robot_1_1_robot_sim.html" title="A simulated robot implementing the API for kinematics. " alt="" coords="307,80,445,107"/>
-<area shape="rect" id="node5" href="$classlwr_1_1robot_1_1_robot.html" title="lwr::robot::Robot" alt="" coords="470,80,588,107"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="arl::robot::Robot::setJointVelocity" name="arl::robot::Robot::setJointVelocity">
-<area shape="rect" id="node2" href="$classarl_1_1robot_1_1_robot.html#ab226e31a34ee6b0f854eec12d86e734b" title="Reads the joint velocity by integrating the position (previous and current position) ..." alt="" coords="179,5,339,46"/>
-<area shape="rect" id="node3" href="$classarl_1_1robot_1_1_robot.html#a92019d849c49bdb76863c154cdb259a2" title="Sends joint positions to the robot using KDL. " alt="" coords="387,5,511,46"/>
-<area shape="rect" id="node4" href="$classarl_1_1robot_1_1_robot.html#a91c24ea89a79ae209cf6d36e34606d6b" title="arl::robot::Robot::\lthrowFunctionIsNotImplemented" alt="" coords="560,5,771,46"/>
-</map>
