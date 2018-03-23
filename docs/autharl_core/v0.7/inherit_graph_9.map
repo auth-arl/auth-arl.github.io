@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classarl_1_1robot_1_1_model.html" title="Defines an abstract model for a robot storing information like DOFs, kinematics etc. " alt="" coords="6,81,122,108"/>
+<area shape="rect" id="node2" href="$classarl_1_1bhand_1_1_model.html" title="arl::bhand::Model" alt="" coords="197,5,320,32"/>
+<area shape="rect" id="node3" href="$classarl_1_1mujoco_1_1_model.html" title="Class representing a Robot Model in MuJoCo. " alt="" coords="194,56,323,83"/>
+<area shape="rect" id="node6" href="$classlwr_1_1robot_1_1_model.html" title="lwr::robot::Model" alt="" coords="199,107,318,133"/>
+<area shape="rect" id="node7" href="$classlwr_1_1robot_1_1_model_extended.html" title="lwr::robot::ModelExtended" alt="" coords="171,157,346,184"/>
+<area shape="rect" id="node4" href="$classarl_1_1mujoco_1_1_lwr_bhand_model.html" title="Class representing a KUKA LWR Robot with a BarrettHand attached to it in MuJoCo. " alt="" coords="395,31,581,57"/>
+<area shape="rect" id="node5" href="$classarl_1_1mujoco_1_1_lwr_model.html" title="Class representing a KUKA LWR Robot Model in MuJoCo. " alt="" coords="413,81,563,108"/>
+</map>

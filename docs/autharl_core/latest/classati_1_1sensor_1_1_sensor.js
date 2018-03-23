@@ -1,6 +1,6 @@
 var classati_1_1sensor_1_1_sensor =
 [
-    [ "Sensor", "classati_1_1sensor_1_1_sensor.html#a249529ac433d56e3fe1ea365e89508a9", null ],
+    [ "Sensor", "classati_1_1sensor_1_1_sensor.html#a590ac06c3c07c02e10b299b1d36cdf16", null ],
     [ "Sensor", "classati_1_1sensor_1_1_sensor.html#a34473d57c93e0bd14031d7bbcb36a8fa", null ],
     [ "getData", "classati_1_1sensor_1_1_sensor.html#af75d0da29424d3d10525d76045a66a20", null ],
     [ "getData", "classati_1_1sensor_1_1_sensor.html#a0fefdfa66d0bb483b21221acb1744980", null ],

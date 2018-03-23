@@ -1,0 +1,8 @@
+<map id="arl::bhand::Robot::getTaskPoseTemplate" name="arl::bhand::Robot::getTaskPoseTemplate">
+<area shape="rect" id="node2" href="$classarl_1_1bhand_1_1_robot.html#ab3f4a4d3f9ca32b33b061b325d99ea6d" title="Reads the current Cartesian orientation (Rotation matrix) from the robot using Armadillo. " alt="" coords="209,5,341,46"/>
+<area shape="rect" id="node6" href="$classarl_1_1bhand_1_1_robot.html#af2bfa3621383e23c426966bf8b30765e" title="Reads the current Cartesian Position from the robot using KDL. " alt="" coords="209,70,340,111"/>
+<area shape="rect" id="node3" href="$classarl_1_1bhand_1_1_robot.html#a33a1b8fe804bc89d849ea8f5b0328665" title="arl::bhand::Robot::\lgetTaskOrientationTemplate" alt="" coords="389,5,576,46"/>
+<area shape="rect" id="node4" href="$classarl_1_1bhand_1_1_robot.html#ac3dc56525b40ff6930a6691c5e263514" title="Reads the current joint positions to the robot using KDL. " alt="" coords="624,38,755,79"/>
+<area shape="rect" id="node5" href="$classarl_1_1bhand_1_1_robot.html#a7c75d9dcdffb14d158b83a75492ed11d" title="arl::bhand::Robot::\lgetJointPositionTemplate" alt="" coords="803,38,973,79"/>
+<area shape="rect" id="node7" href="$classarl_1_1bhand_1_1_robot.html#a325b1764f4ac279689394a04c19ddcc9" title="arl::bhand::Robot::\lgetTaskPositionTemplate" alt="" coords="397,70,568,111"/>
+</map>
