@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: auth-arl
+Label: auth-arl
+Codename: xenial
+Date: Wed, 19 Sep 2018 08:15:33 UTC
+Architectures: amd64
+Components: main
+Description: Apt repository for AUTh-ARL
+MD5Sum:
+ b8c36ef0b2dfb19821b160d33ea34ee5 562 main/binary-amd64/Packages
+ 24646760ce93606c47c9492fe6c93738 379 main/binary-amd64/Packages.gz
+ 133f9fc07dc34bdd508cec14500dae4b 110 main/binary-amd64/Release
+SHA1:
+ 8487e27063755d2225603c5e8546e34a60406b40 562 main/binary-amd64/Packages
+ d6de18c5d09f7fefcbc1f8ba63de6b5f2ef8fc60 379 main/binary-amd64/Packages.gz
+ 4899d1e93327691a13f46a181f27a69c3934bbe7 110 main/binary-amd64/Release
+SHA256:
+ d3533af3868eb8edcf3fcf68cd97e07d632eb7867e5aea6b124409aaef96558a 562 main/binary-amd64/Packages
+ 2ce72736dbf53362e9060d9fabf4ae424c164ff9c66cc3d851196b1a799337d7 379 main/binary-amd64/Packages.gz
+ 762d5d4e5cdf4faad51f51270116216811c3d8011d36135b1c4cbb4419b9d5c0 110 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCAAGBQJbogWwAAoJEOlYLQbhhm/UzqsIAMIZ7KX9/Y9YLoYmMy+cOg7H
+tGP9FI6MDXo77SXzceWbPepYEkV4iKV/yu8Qcj9Hp6ZIRmZNAdlTfD8zddf2rua3
+gDLK11Hcu73qzIAMjFPCPqC/xd4fIofTjxP0D2atGNRSGz8lVnulfDflASqSpPRk
+NovGEDYu9fSu5FypLSim37BxJVCTTMycVOY3Q/8aqyyavFF6kX2lEG609ULnjS9i
+nyTvCP+9eyGRyRUnrydrjvvrchPILSukIXT/u54HIPptRIG8I2pVY/9Q/wvxwBdH
+gY32j7CvyuxCEPgXWXBzrG5V03qwo2qpVdzp9IJPQsxuQ+kkcLVVAjRP0vhJP7w=
+=SuzO
+-----END PGP SIGNATURE-----

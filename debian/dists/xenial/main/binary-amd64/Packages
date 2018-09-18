@@ -1,0 +1,15 @@
+Package: ros-kinetic-autharl-core
+Version: 0.7.0-0xenial
+Architecture: amd64
+Maintainer: Theofanis Prapavesis Semetzidis <thprapav@gmail.com>
+Installed-Size: 27
+Depends: ros-kinetic-geometry-msgs, ros-kinetic-trajectory-msgs
+Priority: extra
+Section: misc
+Filename: pool/main/r/ros-kinetic-autharl-core/ros-kinetic-autharl-core_0.7.0-0xenial_amd64.deb
+Size: 4408
+SHA256: d23f24b5c6548ea673ac5f3705b1b91507fae997c7be49e42d250c097bda9394
+SHA1: 769858c8deac8589dc08ab5086e8a87c029ca756
+MD5sum: a8e550e0bb0c0fcbd998d8e5f766f9eb
+Description: The autharl_core package
+
