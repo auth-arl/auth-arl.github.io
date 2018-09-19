@@ -7,9 +7,9 @@ Depends: ros-kinetic-geometry-msgs, ros-kinetic-trajectory-msgs
 Priority: extra
 Section: misc
 Filename: pool/main/r/ros-kinetic-autharl-core/ros-kinetic-autharl-core_0.7.0-0xenial_amd64.deb
-Size: 4408
-SHA256: d23f24b5c6548ea673ac5f3705b1b91507fae997c7be49e42d250c097bda9394
-SHA1: 769858c8deac8589dc08ab5086e8a87c029ca756
-MD5sum: a8e550e0bb0c0fcbd998d8e5f766f9eb
+Size: 4396
+SHA256: 9332a0683dd3d6fbb99068c4697e6d56fa66d3183c79c007554a97040af0ddc4
+SHA1: b75a2aa634b44dd56f61537bb6d36171fc8f7b70
+MD5sum: 76624b9fbd698fb3117c5ce5bde63d70
 Description: The autharl_core package
 
